@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Historical_annual_reformulations_of_the_influenza_vaccine">
+    <dbpprop:heading rdf:resource="http://dbpedia.org/resource/Influenza" />
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_D&#39;Israeli">
+    <dbpprop:deathCause rdf:resource="http://dbpedia.org/resource/Influenza" />
+    <dbpedia-owl:deathCause rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grip">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Influenza">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Disease" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/AilmentCondition" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Influenza" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/インフルエンザ" />
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Gripa" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Grippe" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Грипп" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Gripe" />
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Trangkaso" />
+    <owl:sameAs rdf:resource="http://mg.dbpedia.org/resource/Gripa" />
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Gripe" />
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Influenza" />
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/שפעת" />
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/इनफ्लुएंजा" />
+    <owl:sameAs rdf:resource="http://sco.dbpedia.org/resource/Haingles" />
+    <owl:sameAs rdf:resource="http://ml.dbpedia.org/resource/ഇൻഫ്ലുവെൻസ" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Griep" />
+    <owl:sameAs rdf:resource="http://ilo.dbpedia.org/resource/Trangkaso" />
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Influenzo" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/نزلة_وافدة" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Influenza" />
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Грип" />
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Грип" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Chřipka" />
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/Qrip" />
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Grip" />
+    <owl:sameAs rdf:resource="http://dv.dbpedia.org/resource/އިންފުލުއެންޒާ" />
+    <owl:sameAs rdf:resource="http://bat_smg.dbpedia.org/resource/Grips" />
+    <owl:sameAs rdf:resource="http://tt.dbpedia.org/resource/Грипп" />
+    <owl:sameAs rdf:resource="http://jv.dbpedia.org/resource/Influenza" />
+    <owl:sameAs rdf:resource="http://ay.dbpedia.org/resource/Jurma_usu" />
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Influenza" />
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Gripa" />
+    <owl:sameAs rdf:resource="http://ast.dbpedia.org/resource/Gripe" />
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Influenza" />
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Influenza" />
+    <owl:sameAs rdf:resource="http://mr.dbpedia.org/resource/इंफ्लुएंझा" />
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Грып" />
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Inflúensa" />
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q2840" />
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Gripo" />
+    <owl:sameAs rdf:resource="http://uz.dbpedia.org/resource/Gripp" />
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Gripa" />
+    <owl:sameAs rdf:resource="http://my.dbpedia.org/resource/တုပ်ကွေးရောဂါ" />
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Грип" />
+    <owl:sameAs rdf:resource="http://ur.dbpedia.org/resource/نزلہ" />
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0021400" />
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Chrípka" />
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Gripp" />
+    <owl:sameAs rdf:resource="http://bn.dbpedia.org/resource/ইনফ্লুয়েঞ্জা_ভাইরাস" />
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Cúm" />
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Тұмау" />
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/آنفلوآنزا" />
+    <owl:sameAs rdf:resource="http://be_x_old.dbpedia.org/resource/Грып" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cycc" />
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Грип" />
+    <owl:sameAs rdf:resource="http://kaa.dbpedia.org/resource/Gripp" />
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/გრიპი" />
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/things/855a2850-c0d6-47d8-a69d-2b13a7889c6c#id" />
+    <owl:sameAs rdf:resource="http://ne.dbpedia.org/resource/इनफ्लुएंजा" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/인플루엔자" />
+    <owl:sameAs rdf:resource="http://sq.dbpedia.org/resource/Gripi" />
+    <owl:sameAs rdf:resource="http://wa.dbpedia.org/resource/Virûsse_del_gripe" />
+    <owl:sameAs rdf:resource="http://yi.dbpedia.org/resource/גריפע" />
+    <owl:sameAs rdf:resource="http://ku.dbpedia.org/resource/Arsim" />
+    <owl:sameAs rdf:resource="http://yo.dbpedia.org/resource/Àrùn_òtútù" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Gripe" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Gripe" />
+    <owl:sameAs rdf:resource="http://kn.dbpedia.org/resource/ಇನ್ಫ್ಲುಯೆನ್ಜ" />
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Influensa" />
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Influenssa" />
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Grip" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Grypa" />
+    <owl:sameAs rdf:resource="http://nds.dbpedia.org/resource/Gripp" />
+    <owl:sameAs rdf:resource="http://vls.dbpedia.org/resource/Griep" />
+    <owl:sameAs rdf:resource="http://zh_yue.dbpedia.org/resource/流行性感冒" />
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Influentia" />
+    <owl:sameAs rdf:resource="http://bo.dbpedia.org/resource/ཚད་རིམས།" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/流行性感冒" />
+    <owl:sameAs rdf:resource="http://af.dbpedia.org/resource/Griep" />
+    <owl:sameAs rdf:resource="http://pnb.dbpedia.org/resource/نزلہ" />
+    <owl:sameAs rdf:resource="http://zh_min_nan.dbpedia.org/resource/Liû-hêng-sèng_kám-mō͘" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2840" />
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Influensa" />
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Trangkaso" />
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Grip" />
+    <owl:sameAs rdf:resource="http://nv.dbpedia.org/resource/Tahoniigááh" />
+    <owl:sameAs rdf:resource="http://fy.dbpedia.org/resource/Gryp" />
+    <owl:sameAs rdf:resource="http://ln.dbpedia.org/resource/Maláli_na_mɔpɛpɛ" />
+    <owl:sameAs rdf:resource="http://ta.dbpedia.org/resource/இன்ஃபுளுவென்சா" />
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Gripas" />
+    <owl:sameAs rdf:resource="http://an.dbpedia.org/resource/Gripe" />
+    <owl:sameAs rdf:resource="http://bs.dbpedia.org/resource/Gripa" />
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Gripă" />
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Influensa" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Influenza" />
+    <owl:sameAs rdf:resource="http://qu.dbpedia.org/resource/Chhulli" />
+    <owl:sameAs rdf:resource="http://ckb.dbpedia.org/resource/پەرکەم" />
+    <owl:sameAs rdf:resource="http://als.dbpedia.org/resource/Influenza" />
+    <owl:sameAs rdf:resource="http://rn.dbpedia.org/resource/Infuluwanza" />
+    <owl:sameAs rdf:resource="http://tg.dbpedia.org/resource/Грипп" />
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/ไข้หวัดใหญ่" />
+    <owl:sameAs rdf:resource="http://or.dbpedia.org/resource/ଇନ୍‌ଫ୍ଲୁଏଞ୍ଜା" />
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/Fliú" />
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Gripa" />
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Gripa" />
+    <owl:sameAs rdf:resource="http://te.dbpedia.org/resource/ఫ్లూ" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Γρίπη" />
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Y_ffliw" />
+    <rdfs:label xml:lang="de">Influenza</rdfs:label>
+    <rdfs:label xml:lang="pt">Gripe</rdfs:label>
+    <rdfs:label xml:lang="it">Influenza</rdfs:label>
+    <rdfs:label xml:lang="ar">نزلة وافدة</rdfs:label>
+    <rdfs:label xml:lang="ja">インフルエンザ</rdfs:label>
+    <rdfs:label xml:lang="zh">流行性感冒</rdfs:label>
+    <rdfs:label xml:lang="en">Influenza</rdfs:label>
+    <rdfs:label xml:lang="pl">Grypa</rdfs:label>
+    <rdfs:label xml:lang="ru">Грипп</rdfs:label>
+    <rdfs:label xml:lang="fr">Grippe</rdfs:label>
+    <rdfs:label xml:lang="nl">Griep</rdfs:label>
+    <rdfs:label xml:lang="es">Gripe</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Healthcare-associated_infections" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_diseases" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Influenza" />
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Influenza" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cdc.gov/ncidod/EID/vol12no01/05-1254.htm" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://origem.info/misms/index.php" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.who.int/wer/wer8126.pdf" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.who.int/mediacentre/factsheets/fs211/en/index.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ers-education.org/pages/default.aspx?id=331" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.outbreakalerts.com/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.recombinomics.com/whats_new.html?" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ncbi.nlm.nih.gov/genomes/FLU/flubiology.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mmed" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.InfluenzaReport.com/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.path.org/vaccineresources/influenza.php" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.fludb.org/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.vega.org.uk/video/programme/6" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.eiss.org/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.who.int/csr/disease/avian_influenza/guidelines/recommendationvaccine.pdf" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.who.int/csr/resources/publications/influenza/WHO_CDS_EPR_GIP_2006_3C.pdf" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cdc.gov/flu/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cdc.gov/ncidod/EID/vol12no01/05-1013.htm" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cdc.gov/ncidod/EID/vol12no01/05-1043.htm" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cdc.gov/ncidod/EID/vol12no01/05-1068.htm" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cdc.gov/ncidod/EID/vol12no01/05-1186.htm" />
+    <dbpprop:caption xml:lang="en">TEM of negatively stained influenza virions, magnified approximately 100,000 times</dbpprop:caption>
+    <dbpprop:diseasesdb rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6791</dbpprop:diseasesdb>
+    <dbpprop:emedicinesubj xml:lang="en">med</dbpprop:emedicinesubj>
+    <dbpprop:emedicinetopic rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1170</dbpprop:emedicinetopic>
+    <dbpprop:icd xml:lang="en">J10, J11</dbpprop:icd>
+    <dbpprop:icd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">487</dbpprop:icd>
+    <dbpprop:medlineplus rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</dbpprop:medlineplus>
+    <dbpprop:meshid xml:lang="en">D007251</dbpprop:meshid>
+    <dbpprop:name xml:lang="en">Influenza</dbpprop:name>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">226</dbpprop:width>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/EM_of_influenza_virus.jpg" />
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/EM_of_influenza_virus.jpg?width=300" />
+    <dbpedia-owl:abstract xml:lang="nl">Griep of influenza is een ziekte die door het influenzavirus wordt veroorzaakt. Dit virus infecteert de luchtwegen. Veel mensen zeggen griep te hebben als ze in de winter of de herfst door een verkoudheid-achtige ziekte met wat koorts worden getroffen, maar hierbij gaat het meestal om een gewoon verkoudheidsvirus. Echte influenza leidt bij de meeste mensen tot aanzienlijke ziekteverschijnselen en een niet te verwaarlozen sterfte.Wereldwijd wordt jaarlijks 5 tot 10 procent van de populatie geinfecteerd met influenza (bij kinderen 20 tot 30%). Hiervan vertoont de meerderheid geen ernstig ziektebeeld of is zelfs asymptomatisch maar toch veroorzaakt de griep jaarlijks 3 tot 5 miljoen ernstige zieken en 250 000 tot 500 000 doden.Elk jaar krijgen ongeveer 820.000 Nederlanders griep. Tijdens een gemiddelde griepepidemie in de winter gaan er in Nederland 250 tot 2.000 personen direct aan de griep of aan de gevolgen ervan dood. Slachtoffers vallen vooral in de risicogroepen: ouderen (ca. 90% van de sterfgevallen is 65 jaar of ouder) en personen met een chronische aandoening.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">流行性感冒简称流感，是一种传播于鸟类和哺乳动物之间的传染病。它是由黏液病毒科的RNA病毒引起的急性呼吸道感染。常见症状为顫慄、发热、喉咙痛、肌肉疼、头疼、咳嗽、虚弱无力等。普通感冒也有类似的症状，但是由不同的病毒引起，而流感往往更严重，而且有时伴随呕吐。流感病毒一般通过空气中的飞沫、人与人之间的接触或与被污染物品的接触传播，每年在温带的秋冬季节大量流行，与病毒有关的严重并发症导致了在危重患者中有较高的死亡率。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pl">Grypa – ostra choroba zakaźna układu oddechowego wywołana zakażeniem wirusem grypy.Grypa przenosi się pomiędzy ludźmi drogą kropelkową (np. podczas kichania), a największa ilość zachorowań występuje podczas sezonowych epidemii, powodując ostre objawy uniemożliwiające pracę osobom czynnym zawodowo. Epidemie grypy powodują znaczne koszty społeczne i niekiedy mają zasięg kontynentalny lub światowy, dlatego grypa wymaga globalnej koordynacji epidemiologicznej.W większości przypadków zachorowanie na grypę powoduje obłożną chorobę, w części przypadków mogą występować powikłania i zdarzają się też przypadki śmierci, szczególnie u dzieci, osób starszych i obciążonych innymi, dodatkowymi poważnymi chorobami.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">La gripe o influenza es una enfermedad infecciosa de aves y mamíferos causada por un tipo de virus de ARN de la familia de los Orthomyxoviridae. Las palabras gripe y gripa proceden de la francesa grippe (procedente del suizo-alemán grupi) (acurrucarse), mientras que influenza procede del italiano.En los seres humanos afecta a las vías respiratorias, inicialmente puede ser similar a un resfriado y con frecuencia se acompaña de síntomas generales como dolor de garganta, debilidad, dolores musculares (mialgias), dolor estomacal, articulares (artralgias) y de cabeza (cefalea), con tos (que generalmente es seca y sin mucosidad), malestar general y algunos signos como pueda ser la fiebre. En algunos casos más graves puede complicarse con pulmonía (neumonía), que puede resultar mortal, especialmente en niños pequeños y sobre todo en ancianos. Aunque se puede confundir con el resfriado común (catarro), la gripe es una enfermedad más grave y está causada por un tipo diferente de virus. También puede provocar, más a menudo en niños, náuseas y vómitos, que al ser síntomas de gastroenteritis hace que se denomine gripe estomacal o abdominal.La gripe se transmite desde individuos infectados a través de gotas en aerosol cargadas de virus (procedentes de secreción nasal, bronquial o saliva que contenga alguna de ellas), que son emitidas con la tos o los estornudos o sólo al hablar. Ya mucho más raramente, a través de las heces de pájaros infectados. También es transmisible por la sangre y por las superficies u objetos contaminados con el virus, que se denominan fómites.Los virus de la gripe resisten más en ambiente seco y frío. Pueden conservar su capacidad infectiva durante una semana a la temperatura del cuerpo humano, durante 30 días a 0 °C y durante mucho más tiempo a menores temperaturas. Puede ser fácilmente inactivado mediante detergentes o desinfectantes.La gripe se distribuye en epidemias estacionales que provocan cientos de miles de defunciones, que pasan a ser millones en los años de pandemia (epidemia global). Durante el siglo XX se produjeron cinco pandemias de gripe debido a la aparición por mutación de diferentes cepas del virus. A menudo estas nuevas cepas han surgido a partir del trasvase de cepas típicas de animales al ser humano, en lo que se denomina salto de especie o heterocontagio. Una variante mortal del virus de la gripe aviar denominada H5N1 pasó por ser la principal candidata para la siguiente pandemia de gripe en humanos desde que traspasó la barrera de especie en los años 1990 y provocó decenas de defunciones en Asia, hasta la aparición de la neogripe A (H1N1) en 2009. Afortunadamente aquella variante aviar no mutó y no puede transmitirse de persona a persona, pues sólo afectó a humanos desde aves contagiadas y ese contagio no es fácil pues requiere unas condiciones muy especiales.En los países desarrollados se han establecido campañas de vacunación anual frente a la gripe para las personas con mayor riesgo de contraer la enfermedad o que son más vulnerables a sus complicaciones, así como controles estrictos a las aves de corral. La vacuna humana habitual es la trivalente, que contiene proteínas purificadas e inactivadas de las tres cepas se consideran van a ser más comunes en la siguiente epidemia: dos subtipos del virus A de la gripe y uno del virus B. Una vacuna elaborada un año puede no ser eficaz al siguiente debido a las frecuentes y rápidas mutaciones (cambios en sus antígenos) que sufre el virus, y a la dominancia variable de las diferentes cepas.El tratamiento es sólo sintomático y en los casos graves y hospitalarios es sólo de mantenimiento de constantes, pues los fármacos antivirales tienen una eficacia muy limitada (los más eficaces son los inhibidores de la neuraminidasa) y no carecen de toxicidad. Los antibióticos sólo son útiles si hay infección bacteriana asociada.El pronóstico es bueno con recuperación parcial a la semana y total a los quince días, siendo, en las epidemias habituales, los exitus letalis consecuencia de la patología o del deficiente estado inmunitario, previos a la infección gripal.En España la gripe es de declaración obligatoria, no nominal y no urgente. Todos los viernes ha de remitirse a las autoridades sanitarias el número de casos nuevos atendidos durante la semana. Antes de 2009 nunca se requería encuesta epidemiológica, dada su alta morbilidad (cantidad porcentual de afectados) pero esta sí debe realizarse actualmente en los casos de neogripe A, incluso antes de la confirmación por el laboratorio.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">Die Influenza, auch „echte“ Grippe oder Virusgrippe genannt, ist eine durch Viren aus den Gattungen Influenzavirus A oder B ausgelöste Infektionskrankheit bei Menschen.Alltagssprachlich wird die Bezeichnung Grippe häufig auch für grippale Infekte verwendet, bei denen es sich um verschiedene andere, in der Regel deutlich harmloser verlaufende Virusinfektionen handelt.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Influenza, commonly known as &quot;the flu&quot;, is an infectious disease of birds and mammals caused by RNA viruses of the family Orthomyxoviridae, the influenza viruses. The most common symptoms are chills, fever, runny nose, sore throat, muscle pains, headache (often severe), coughing, weakness/fatigue and general discomfort. Although it is often confused with other influenza-like illnesses, especially the common cold, influenza is a more severe disease caused by a different type of virus. Influenza may produce nausea and vomiting, particularly in children, but these symptoms are more common in the unrelated gastroenteritis, which is sometimes inaccurately referred to as &quot;stomach flu&quot; or &quot;24-hour flu&quot;.Typically, influenza is transmitted through the air by coughs or sneezes, creating aerosols containing the virus. Influenza can also be transmitted by direct contact with bird droppings or nasal secretions, or through contact with contaminated surfaces. Airborne aerosols have been thought to cause most infections, although which means of transmission is most important is not absolutely clear. Influenza viruses can be inactivated by sunlight, disinfectants and detergents. As the virus can be inactivated by soap, frequent hand washing reduces the risk of infection. Flu can occasionally lead to pneumonia, either direct viral pneumonia or secondary bacterial pneumonia, even for persons who are usually very healthy. In particular it is a warning sign if a child (or presumably an adult) seems to be getting better and then relapses with a high fever as this relapse may be bacterial pneumonia. Another warning sign is if the person starts to have trouble breathing.Vaccinations against influenza are usually made available to people in developed countries. Farmed poultry is often vaccinated to avoid decimation of the flocks. The most common human vaccine is the trivalent influenza vaccine (TIV) that contains purified and inactivated antigens from three viral strains. Typically, this vaccine includes material from two influenza A virus subtypes and one influenza B virus strain. The TIV carries no risk of transmitting the disease. A vaccine formulated for one year may be ineffective in the following year, since the influenza virus evolves rapidly, and new strains quickly replace the older ones. Antiviral drugs such as the neuraminidase inhibitors oseltamivir among others have been used to treat influenza. Their benefits in those who are otherwise healthy do not appear to be greater than their risks. No benefit has been found in those with other health problems.Influenza spreads around the world in seasonal epidemics, resulting in about three to five million yearly cases of severe illness and about 250,000 to 500,000 yearly deaths, rising to millions in some pandemic years. In the 20th century three influenza pandemics occurred, each caused by the appearance of a new strain of the virus in humans, and killed tens of millions of people. Often, new influenza strains appear when an existing flu virus spreads to humans from another animal species, or when an existing human strain picks up new genes from a virus that usually infects birds or pigs. An avian strain named H5N1 raised the concern of a new influenza pandemic after it emerged in Asia in the 1990s, but it has not evolved to a form that spreads easily between people. In April 2009 a novel flu strain evolved that combined genes from human, pig, and bird flu. Initially dubbed &quot;swine flu&quot; and also known as influenza A/H1N1, it emerged in Mexico, the United States, and several other nations. The World Health Organization officially declared the outbreak to be a pandemic on 11 June 2009 (see 2009 flu pandemic). The WHO&#39;s declaration of a pandemic level 6 was an indication of spread, not severity, the strain actually having a lower mortality rate than common flu outbreaks.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Грипп (фр. grippe, от нем. grippen — «схватить», «резко сжать») — острое инфекционное заболевание дыхательных путей, вызываемое вирусом гриппа. Входит в группу острых респираторных вирусных инфекций (ОРВИ). Периодически распространяется в виде эпидемий и пандемий. В настоящее время выявлено более 2000 вариантов вируса гриппа, различающихся между собой антигенным спектром. По оценкам ВОЗ от всех вариантов вируса во время сезонных эпидемий в мире ежегодно умирают от 250 до 500 тыс. человек (большинство из них старше 65 лет), в некоторые годы число смертей может достигать миллиона. Название болезни происходит от фр. grippe, которое выводят из рус. хрип.Нередко словом «грипп» в обиходе также называют любое острое респираторное заболевание (ОРВИ), что ошибочно, так как кроме гриппа на сегодняшний день описано еще более 200 видов других респираторных вирусов (аденовирусы, риновирусы, респираторно-синцитиальные вирусы и др.), вызывающих гриппоподобные заболевания у человека.Для профилактики гриппа Центры по контролю и профилактике заболеваний США рекомендуют вакцинировать всех лиц старше 6 месяцев (особенно входящих в группы риска), применять средства индивидуальной защиты, сократить контакты с заболевшими, применять противовирусные препараты по назначению врача.Во многих европейских языках грипп называют «инфлюэнзой» (итал. influenza — «воздействие»), названием, в своё время возникшим в Риме в середине 18-го века благодаря потенциальной вирулентности заражения, как бы воздействующего на здоровое население.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">La grippe (ou influenza) est une maladie infectieuse fréquente et contagieuse causée par trois virus à ARN de la famille des Orthomyxoviridae (Myxovirus influenzae A, B et C), touchant les oiseaux et certains mammifères dont le porc, le phoque, et l&#39;être humain.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">L&#39;influenza è una malattia infettiva causata da virus RNA della famiglia degli Orthomyxoviridae. È caratterizzata da sintomi sistemici (febbre non sempre presente, malessere generale, cefalea e dolori osteomuscolari e respiratori, tosse, faringodinia) comuni a molte altre malattie virali.L&#39;esordio è generalmente brusco e improvviso e la febbre dura 3-4 giorni.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">A gripe é uma doença infecciosa aguda que afeta aves e mamíferos. É causada pelo Vírus ARN da família Orthomyxoviridae (dos vírus influenza). O nome influenza vem da língua italiana, e significa &quot;influência&quot; (em latim, influentia). Em humanos, os sintomas mais comuns da doença são calafrios e febre, dor de garganta, dores musculares, dores de cabeça, tosse, fadiga e mal estar. Em casos mais graves causa pneumonia, que pode ser fatal, particularmente em crianças pequenas e idosos. Embora às vezes seja confundida com o resfriado, a gripe é muito mais grave e causada por vários tipos de vírus. Pode causar náusea e vômito, especialmente em crianças, mas tais sintomas são mais característicos da não relacionada gastroenterite, que pode ser chamada de &quot;gripe de estômago&quot; ou &quot;gripe de 24 horas&quot;.Tipicamente, a gripe é transmitida por mamíferos infectados por meio do ar por tosses ou espirros, criando partículas contendo o vírus, e por aves infectadas por meio de suas fezes. Pode também ser transmitida pela saliva, secreções nasais, fezes e sangue. Infecções também ocorrem por meio de contato com estes fluidos corporais ou com superfícies contaminadas. Os vírus podem infectar por cerca de uma semana à temperatura do corpo, e por mais de 30 dias a 0 °C e por períodos mais longos em temperaturas mais baixas. A maior parte das variedades do influenza pode ser facilmente neutralizada por meio de desinfetantes e detergentes.A gripe se espalha ao redor do mundo em epidemias, que resultam em mortes de centenas de milhares de pessoas anualmente — milhões em anos de pandemia. Três epidemias da doença ocorreram no século 20 mataram dezenas de milhões de pessoas, com cada uma destas pandemias sendo causada pelo surgimento de uma nova variedade do vírus em humanos. Frequentemente, estas novas variedades resultam de uma gripe existente em espécies animais para seres humanos. A gripe aviária, chamada H5N1 mostrou-se a de maior risco para uma nova pandemia de gripe desde que começou a matar humanos na Ásia nos anos 1990. Felizmente, não sofreu uma mutação para uma forma que se espalha facilmente entre as pessoas.. Em 2009, o México registrou os primeiros sintomas da gripe suína transmitida pelos porcos aos humanos. O vírus sofreu mutações e atualmente é transmitido de humanos para humanos.Vacinações são geralmente dadas às pessoas em países desenvolvidos com um maior risco de contrair a doença e às aves de criação. a vacina humana mais comum é a chamada vacina trivalente que contem material purificado e inativo de três variedades do vírus. Tipicamente, esta vacina inclui material de subtipos da variedade A e uma da B. A vacina formulada para um ano pode ser ineficaz no ano seguinte, pois os vírus mudam rapidamente ao longo do tempo, e diferentes variedades se tornam dominantes. Medicamentos anti-virais podem ser utilizados para o tratamento, especialmente os com inibidores de neuramidase.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ar">النزلة الوافدة أو الإنفلُوَنزَا أو الخُنان[بحاجة لدقة أكثر]باللغة العربية. مرض معدي تسببة مجموعة من الفيروسات تحت مجموعة أورثوميكسوفيريداي والتي تصيب الثديات والطيور. وعادة ما تسبب أمراض الجهاز التنفسي وخاصة التهاب رئوي وقد يكون بالشد التي تفضي للموت. كما تسبب هذه الفيروسات أعراض أخرى كالسعال وألام في العضلات والإرهاق وصداع واحتقان البلعوم. ينتقل فيروس الرنفلونزا بالهواء عن طريق السعال والعطس، وبإمكان الفيروس دخول الجسم البشري عن طريق الأغشية المخاطية للأنف والفم أو العين أيضا. كما من الممكن أن ينتقل عن طريق فضلات الطيور المصابة. والفيروس شديد العدوى وسريع الانتشار. ومن الممكن قتل الفيروس عن طريق المنضفات أو التعرض لضوء الشمس. فلهذا ينصح بغسل اليدين دورياً للحد من انتشار العدوى.و يسبب فيروس الإنفلونزا عدوى موسمية تؤدي إلى موت آلاف كبار السن والأطفال كل عام. كما ينتشر الفيروس على شكل وباء عالمي يحدث بشكل غير متوقع كل 10-40 سنة متسببا في موت الملايين بالعالم. وقد اجتاح العالم موجات وباء الانفلونزا في سنوات 1889-1890 و1918 و1957-1958 و1968-1969. وقد تسبب وباء عام 1918 في موت 20-100 مليون شخص بالعالم.1933.. وتوجد مخاوف من انتشار وبائي عالمي جديد بسبب بأنفلونزا الدجاج أو الطيور وإنفلونزا الخنازير.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">インフルエンザ（ラテン語: influenza）とはインフルエンザウイルスによって引き起こされる急性感染症のことで、多くは上気道炎症状・呼吸器疾患を伴うことで流行性感冒（りゅうこうせいかんぼう）、詰めて流感（りゅうかん）と言われる。日本などの温帯では、季節性インフルエンザは冬季に毎年のように流行する。通常、11月下旬から12月上旬頃に最初の発生、12月下旬に小ピーク。学校が冬休みの間は小康状態で、翌年の1-3月頃にその数が増加しピークを迎えて4-5月には流行は収まるパターンである。</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Influenza</foaf:name>
+    <dbpedia-owl:diseasesdb>6791</dbpedia-owl:diseasesdb>
+    <dbpedia-owl:emedicineSubject xml:lang="en">med</dbpedia-owl:emedicineSubject>
+    <dbpedia-owl:emedicineTopic xml:lang="en">1170</dbpedia-owl:emedicineTopic>
+    <dbpedia-owl:icd10>J10, J11</dbpedia-owl:icd10>
+    <dbpedia-owl:icd9>487</dbpedia-owl:icd9>
+    <dbpedia-owl:medlineplus>000080</dbpedia-owl:medlineplus>
+    <dbpedia-owl:meshId>D007251</dbpedia-owl:meshId>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-disease-noun-1" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Influenza?oldid=600986240" />
+    <rdfs:comment xml:lang="ja">インフルエンザ（ラテン語: influenza）とはインフルエンザウイルスによって引き起こされる急性感染症のことで、多くは上気道炎症状・呼吸器疾患を伴うことで流行性感冒（りゅうこうせいかんぼう）、詰めて流感（りゅうかん）と言われる。日本などの温帯では、季節性インフルエンザは冬季に毎年のように流行する。通常、11月下旬から12月上旬頃に最初の発生、12月下旬に小ピーク。学校が冬休みの間は小康状態で、翌年の1-3月頃にその数が増加しピークを迎えて4-5月には流行は収まるパターンである。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">流行性感冒简称流感，是一种传播于鸟类和哺乳动物之间的传染病。它是由黏液病毒科的RNA病毒引起的急性呼吸道感染。常见症状为顫慄、发热、喉咙痛、肌肉疼、头疼、咳嗽、虚弱无力等。普通感冒也有类似的症状，但是由不同的病毒引起，而流感往往更严重，而且有时伴随呕吐。流感病毒一般通过空气中的飞沫、人与人之间的接触或与被污染物品的接触传播，每年在温带的秋冬季节大量流行，与病毒有关的严重并发症导致了在危重患者中有较高的死亡率。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Griep of influenza is een ziekte die door het influenzavirus wordt veroorzaakt. Dit virus infecteert de luchtwegen. Veel mensen zeggen griep te hebben als ze in de winter of de herfst door een verkoudheid-achtige ziekte met wat koorts worden getroffen, maar hierbij gaat het meestal om een gewoon verkoudheidsvirus.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Influenza, auch „echte“ Grippe oder Virusgrippe genannt, ist eine durch Viren aus den Gattungen Influenzavirus A oder B ausgelöste Infektionskrankheit bei Menschen.Alltagssprachlich wird die Bezeichnung Grippe häufig auch für grippale Infekte verwendet, bei denen es sich um verschiedene andere, in der Regel deutlich harmloser verlaufende Virusinfektionen handelt.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La gripe o influenza es una enfermedad infecciosa de aves y mamíferos causada por un tipo de virus de ARN de la familia de los Orthomyxoviridae.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A gripe é uma doença infecciosa aguda que afeta aves e mamíferos. É causada pelo Vírus ARN da família Orthomyxoviridae (dos vírus influenza). O nome influenza vem da língua italiana, e significa &quot;influência&quot; (em latim, influentia). Em humanos, os sintomas mais comuns da doença são calafrios e febre, dor de garganta, dores musculares, dores de cabeça, tosse, fadiga e mal estar. Em casos mais graves causa pneumonia, que pode ser fatal, particularmente em crianças pequenas e idosos.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Грипп (фр. grippe, от нем. grippen — «схватить», «резко сжать») — острое инфекционное заболевание дыхательных путей, вызываемое вирусом гриппа. Входит в группу острых респираторных вирусных инфекций (ОРВИ). Периодически распространяется в виде эпидемий и пандемий. В настоящее время выявлено более 2000 вариантов вируса гриппа, различающихся между собой антигенным спектром. По оценкам ВОЗ от всех вариантов вируса во время сезонных эпидемий в мире ежегодно умирают от 250 до 500 тыс.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Grypa – ostra choroba zakaźna układu oddechowego wywołana zakażeniem wirusem grypy.Grypa przenosi się pomiędzy ludźmi drogą kropelkową (np. podczas kichania), a największa ilość zachorowań występuje podczas sezonowych epidemii, powodując ostre objawy uniemożliwiające pracę osobom czynnym zawodowo.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La grippe (ou influenza) est une maladie infectieuse fréquente et contagieuse causée par trois virus à ARN de la famille des Orthomyxoviridae (Myxovirus influenzae A, B et C), touchant les oiseaux et certains mammifères dont le porc, le phoque, et l&#39;être humain.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">النزلة الوافدة أو الإنفلُوَنزَا أو الخُنان[بحاجة لدقة أكثر]باللغة العربية. مرض معدي تسببة مجموعة من الفيروسات تحت مجموعة أورثوميكسوفيريداي والتي تصيب الثديات والطيور. وعادة ما تسبب أمراض الجهاز التنفسي وخاصة التهاب رئوي وقد يكون بالشد التي تفضي للموت. كما تسبب هذه الفيروسات أعراض أخرى كالسعال وألام في العضلات والإرهاق وصداع واحتقان البلعوم. ينتقل فيروس الرنفلونزا بالهواء عن طريق السعال والعطس، وبإمكان الفيروس دخول الجسم البشري عن طريق الأغشية المخاطية للأنف والفم أو العين أيضا.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Influenza, commonly known as &quot;the flu&quot;, is an infectious disease of birds and mammals caused by RNA viruses of the family Orthomyxoviridae, the influenza viruses. The most common symptoms are chills, fever, runny nose, sore throat, muscle pains, headache (often severe), coughing, weakness/fatigue and general discomfort. Although it is often confused with other influenza-like illnesses, especially the common cold, influenza is a more severe disease caused by a different type of virus.</rdfs:comment>
+    <rdfs:comment xml:lang="it">L&#39;influenza è una malattia infettiva causata da virus RNA della famiglia degli Orthomyxoviridae. È caratterizzata da sintomi sistemici (febbre non sempre presente, malessere generale, cefalea e dolori osteomuscolari e respiratori, tosse, faringodinia) comuni a molte altre malattie virali.L&#39;esordio è generalmente brusco e improvviso e la febbre dura 3-4 giorni.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19572217</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600986240</dbpedia-owl:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theophilus_Thompson_(physician)">
+    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Winslow_Taylor">
+    <dbpprop:deathCause rdf:resource="http://dbpedia.org/resource/Influenza" />
+    <dbpedia-owl:deathCause rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flu_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monte_Blue">
+    <dbpprop:deathCause rdf:resource="http://dbpedia.org/resource/Influenza" />
+    <dbpedia-owl:deathCause rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Consequencies_of_the_spanish_flu">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flu">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grippe">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Influenza,_human">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Influenza_(Flu)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Influenza_(flu)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Influenza_w/_other_respiratory_manifestations">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Influenza_w/_pneumonia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Grippe">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_grip">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_grippe">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Le_grippe">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regular_flu">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Flu">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_flu">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_grip">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_grippe">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viral_fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_flu_pandemic_in_Argentina">
+    <dbpprop:data rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Live_attenuated_influenza_vaccine">
+    <dbpprop:target rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_D._Prentice">
+    <dbpprop:deathCause rdf:resource="http://dbpedia.org/resource/Influenza" />
+    <dbpedia-owl:deathCause rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Grippe">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Influenza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Chřipka">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://el.dbpedia.org/resource/Γρίπη">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Gripe">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Gripe">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Influenza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Influenza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/インフルエンザ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ko.dbpedia.org/resource/인플루엔자">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Griep">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Grypa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Gripe">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q2840">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Catchpole">
+    <dbpprop:cause rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Francis,_Jr.">
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malik_Peiris">
+    <dbpprop:fields rdf:resource="http://dbpedia.org/resource/Influenza" />
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralf_Altmeyer">
+    <dbpprop:fields rdf:resource="http://dbpedia.org/resource/Influenza" />
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Influenza_symptoms">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Symptoms_of_influenza">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://af.dbpedia.org/resource/Griep">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://als.dbpedia.org/resource/Influenza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://an.dbpedia.org/resource/Gripe">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ar.dbpedia.org/resource/نزلة_وافدة">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ast.dbpedia.org/resource/Gripe">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ay.dbpedia.org/resource/Jurma_usu">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://az.dbpedia.org/resource/Qrip">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bat_smg.dbpedia.org/resource/Grips">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be.dbpedia.org/resource/Грып">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be_x_old.dbpedia.org/resource/Грып">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bg.dbpedia.org/resource/Грип">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bn.dbpedia.org/resource/ইনফ্লুয়েঞ্জা_ভাইরাস">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bo.dbpedia.org/resource/ཚད་རིམས།">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://br.dbpedia.org/resource/Grip">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bs.dbpedia.org/resource/Gripa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ca.dbpedia.org/resource/Grip">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ckb.dbpedia.org/resource/پەرکەم">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cy.dbpedia.org/resource/Y_ffliw">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/Influenza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dv.dbpedia.org/resource/އިންފުލުއެންޒާ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Gripo">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://et.dbpedia.org/resource/Gripp">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fa.dbpedia.org/resource/آنفلوآنزا">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fi.dbpedia.org/resource/Influenssa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fy.dbpedia.org/resource/Gryp">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ga.dbpedia.org/resource/Fliú">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gl.dbpedia.org/resource/Gripe">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/שפעת">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hi.dbpedia.org/resource/इनफ्लुएंजा">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hr.dbpedia.org/resource/Gripa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/Influenza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ilo.dbpedia.org/resource/Trangkaso">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://io.dbpedia.org/resource/Influenzo">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://is.dbpedia.org/resource/Inflúensa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://jv.dbpedia.org/resource/Influenza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ka.dbpedia.org/resource/გრიპი">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kaa.dbpedia.org/resource/Gripp">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kk.dbpedia.org/resource/Тұмау">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kn.dbpedia.org/resource/ಇನ್ಫ್ಲುಯೆನ್ಜ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ku.dbpedia.org/resource/Arsim">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://la.dbpedia.org/resource/Influentia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ln.dbpedia.org/resource/Maláli_na_mɔpɛpɛ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lt.dbpedia.org/resource/Gripas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lv.dbpedia.org/resource/Gripa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mg.dbpedia.org/resource/Gripa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mk.dbpedia.org/resource/Грип">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ml.dbpedia.org/resource/ഇൻഫ്ലുവെൻസ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mr.dbpedia.org/resource/इंफ्लुएंझा">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ms.dbpedia.org/resource/Influenza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://my.dbpedia.org/resource/တုပ်ကွေးရောဂါ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nds.dbpedia.org/resource/Gripp">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ne.dbpedia.org/resource/इनफ्लुएंजा">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nn.dbpedia.org/resource/Influensa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/Influensa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nv.dbpedia.org/resource/Tahoniigááh">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oc.dbpedia.org/resource/Gripa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://or.dbpedia.org/resource/ଇନ୍‌ଫ୍ଲୁଏଞ୍ଜା">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pnb.dbpedia.org/resource/نزلہ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://qu.dbpedia.org/resource/Chhulli">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://rn.dbpedia.org/resource/Infuluwanza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ro.dbpedia.org/resource/Gripă">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Грипп">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sco.dbpedia.org/resource/Haingles">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sh.dbpedia.org/resource/Gripa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simple.dbpedia.org/resource/Influenza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sk.dbpedia.org/resource/Chrípka">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sl.dbpedia.org/resource/Gripa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sq.dbpedia.org/resource/Gripi">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sr.dbpedia.org/resource/Грип">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Influensa">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ta.dbpedia.org/resource/இன்ஃபுளுவென்சா">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://te.dbpedia.org/resource/ఫ్లూ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tg.dbpedia.org/resource/Грипп">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://th.dbpedia.org/resource/ไข้หวัดใหญ่">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tl.dbpedia.org/resource/Trangkaso">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Grip">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tt.dbpedia.org/resource/Грипп">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Грип">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ur.dbpedia.org/resource/نزلہ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uz.dbpedia.org/resource/Gripp">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vi.dbpedia.org/resource/Cúm">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vls.dbpedia.org/resource/Griep">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wa.dbpedia.org/resource/Virûsse_del_gripe">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://war.dbpedia.org/resource/Trangkaso">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://yi.dbpedia.org/resource/גריפע">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://yo.dbpedia.org/resource/Àrùn_òtútù">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/流行性感冒">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh_min_nan.dbpedia.org/resource/Liû-hêng-sèng_kám-mō͘">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh_yue.dbpedia.org/resource/流行性感冒">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Influenza">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Influenza" />
+  </rdf:Description>
+</rdf:RDF>

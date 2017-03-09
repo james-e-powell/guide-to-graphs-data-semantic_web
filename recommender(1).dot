@@ -1,0 +1,92 @@
+/* Created by igraph 0.7.0 */
+digraph {
+  0 [
+    name=Scott
+    age=36
+    labelV=vertex
+    id=1
+  ];
+  1 [
+    name=Bob
+    age=47
+    labelV=vertex
+    id=2
+  ];
+  2 [
+    name=Anne
+    age=34
+    labelV=vertex
+    id=3
+  ];
+  3 [
+    name=Susan
+    age=45
+    labelV=vertex
+    id=4
+  ];
+  4 [
+    category=novel
+    title=Solaris
+    age=NaN
+    labelV=vertex
+    id=5
+  ];
+  5 [
+    category=novel
+    title="Roadside Picnic"
+    age=NaN
+    labelV=vertex
+    id=6
+  ];
+  6 [
+    category=novel
+    title=Annihilation
+    age=NaN
+    labelV=vertex
+    id=7
+  ];
+  7 [
+    category=nonfiction
+    title="Brief History of Time"
+    age=NaN
+    labelV=vertex
+    id=8
+  ];
+
+  0 -> 2 [
+    labelE=friend
+    id=16
+  ];
+  1 -> 2 [
+    labelE=friend
+    id=17
+  ];
+  0 -> 6 [
+    labelE=read
+    id=9
+  ];
+  0 -> 7 [
+    labelE=read
+    id=10
+  ];
+  1 -> 7 [
+    labelE=read
+    id=11
+  ];
+  1 -> 5 [
+    labelE=read
+    id=12
+  ];
+  2 -> 4 [
+    labelE=read
+    id=13
+  ];
+  3 -> 4 [
+    labelE=read
+    id=14
+  ];
+  0 -> 1 [
+    labelE=friend
+    id=15
+  ];
+}

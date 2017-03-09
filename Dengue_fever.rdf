@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_fever">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/BiologicalLivingObject" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Disease" />
+    <owl:sameAs rdf:resource="http://dv.dbpedia.org/resource/ޑެންގީ_ހުން" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Dengue" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Denga" />
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/تب_دنگی" />
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Denguekuume" />
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Денга" />
+    <owl:sameAs rdf:resource="http://zh_min_nan.dbpedia.org/resource/Thian-káu-jia̍t" />
+    <owl:sameAs rdf:resource="http://bn.dbpedia.org/resource/ডেঙ্গু_জ্বর" />
+    <owl:sameAs rdf:resource="http://km.dbpedia.org/resource/រោគគ្រុនចាញ់" />
+    <owl:sameAs rdf:resource="http://te.dbpedia.org/resource/డెంగీ" />
+    <owl:sameAs rdf:resource="http://mr.dbpedia.org/resource/डेंग्यू_ताप" />
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Dengue" />
+    <owl:sameAs rdf:resource="http://or.dbpedia.org/resource/ଡେଙ୍ଗୁ_ଜର" />
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Dengue-láz" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Dengue" />
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Dengo" />
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Dengue_fever" />
+    <owl:sameAs rdf:resource="http://my.dbpedia.org/resource/သွေးလွန်တုပ်ကွေး" />
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Denguefeber" />
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/डेंगू" />
+    <owl:sameAs rdf:resource="http://kn.dbpedia.org/resource/ಡೆಂಗೇ" />
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Lagnat_na_dengue" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Лихорадка_денге" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Dengue" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Dengue" />
+    <owl:sameAs rdf:resource="http://si.dbpedia.org/resource/ඩෙංගු" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Δάγκειος_πυρετός" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Febră_Dengue" />
+    <owl:sameAs rdf:resource="http://ta.dbpedia.org/resource/டெங்கு_காய்ச்சல்" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Dengue" />
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Demam_Denggi" />
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/קדחת_דנגי" />
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Horúčka_dengue" />
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Dengue" />
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Денга" />
+    <owl:sameAs rdf:resource="http://pnb.dbpedia.org/resource/ڈنگی_تاپ" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q30953" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Dengue" />
+    <owl:sameAs rdf:resource="http://jv.dbpedia.org/resource/Demam_berdarah_dengue" />
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Sốt_xuất_huyết_Dengue" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/デング熱" />
+    <owl:sameAs rdf:resource="http://gu.dbpedia.org/resource/ડેન્ગ્યુ" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/骨痛熱症" />
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Febris_dengue" />
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Гарячка_денге" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Denguefieber" />
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Dengue_nga_Hiranat" />
+    <owl:sameAs rdf:resource="http://ia.dbpedia.org/resource/Dengue" />
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Denguefeber" />
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/ไข้เด็งกี" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Demam_berdarah_Dengue" />
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q30953" />
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Beinbrunasótt" />
+    <owl:sameAs rdf:resource="http://ur.dbpedia.org/resource/ڈینگی_بخار" />
+    <owl:sameAs rdf:resource="http://ne.dbpedia.org/resource/डेङ्गु" />
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Dengue" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/뎅기열" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09wsg" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Demam_berdarah" />
+    <owl:sameAs rdf:resource="http://ml.dbpedia.org/resource/ഡെങ്കിപ്പനി" />
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Denga_groznica" />
+    <owl:sameAs rdf:resource="http://scn.dbpedia.org/resource/Tirzana" />
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Денга_грозница" />
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/حمى_الضنك" />
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Deng_humması" />
+    <rdfs:label xml:lang="zh">骨痛熱症</rdfs:label>
+    <rdfs:label xml:lang="fr">Dengue</rdfs:label>
+    <rdfs:label xml:lang="es">Dengue</rdfs:label>
+    <rdfs:label xml:lang="ar">حمى الضنك</rdfs:label>
+    <rdfs:label xml:lang="ru">Лихорадка денге</rdfs:label>
+    <rdfs:label xml:lang="ja">デング熱</rdfs:label>
+    <rdfs:label xml:lang="it">Dengue</rdfs:label>
+    <rdfs:label xml:lang="nl">Dengue</rdfs:label>
+    <rdfs:label xml:lang="de">Denguefieber</rdfs:label>
+    <rdfs:label xml:lang="en">Dengue fever</rdfs:label>
+    <rdfs:label xml:lang="pt">Dengue</rdfs:label>
+    <rdfs:label xml:lang="pl">Denga</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Dengue_fever" />
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dengue_fever" />
+    <dbpprop:alt xml:lang="en">Photograph of a person&#39;s back with the skin exhibiting the characteristic rash of dengue fever</dbpprop:alt>
+    <dbpprop:caption xml:lang="en">The typical rash seen in dengue fever</dbpprop:caption>
+    <dbpprop:commons xml:lang="en">Category:Dengue fever</dbpprop:commons>
+    <dbpprop:d xml:lang="en">no</dbpprop:d>
+    <dbpprop:diseasesdb rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3564</dbpprop:diseasesdb>
+    <dbpprop:display xml:lang="en">Dengue fever</dbpprop:display>
+    <dbpprop:emedicinesubj xml:lang="en">med</dbpprop:emedicinesubj>
+    <dbpprop:emedicinetopic rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">528</dbpprop:emedicinetopic>
+    <dbpprop:icd xml:lang="en">A90</dbpprop:icd>
+    <dbpprop:icd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</dbpprop:icd>
+    <dbpprop:medlineplus rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1374</dbpprop:medlineplus>
+    <dbpprop:meshname xml:lang="en">Dengue</dbpprop:meshname>
+    <dbpprop:meshnumber xml:lang="en">C02.782.417.214</dbpprop:meshnumber>
+    <dbpprop:name xml:lang="en">Dengue fever</dbpprop:name>
+    <dbpprop:species xml:lang="en">no</dbpprop:species>
+    <dbpprop:voy xml:lang="en">Dengue fever</dbpprop:voy>
+    <dbpprop:wikt xml:lang="en">Dengue fever</dbpprop:wikt>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Denguerash.JPG" />
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Denguerash.JPG?width=300" />
+    <dbpedia-owl:abstract xml:lang="pl">Denga – infekcyjna choroba tropikalna wywoływana przez wirus dengi. Objawy obejmują gorączkę, ból głowy, mięśni i stawów oraz charakterystyczną wysypkę, przypominającą spotykaną w odrze. W odosobnionych przypadkach choroba prowadzi do zagrażającej życiu gorączki krwotocznej z krwotokami, trombocytopenią i hipowolemią, może się także rozwinąć wstrząs, w którym niebezpiecznie spada ciśnienie krwi.Dengę przenosi kilka gatunków komarów należących do rodzaju Aedes, zwłaszcza A. aegypti. Wirus występuje w czterech różnych typach. Infekcja jednym z nich pozostawia zazwyczaj odporność na całe życie, zapewniając tylko krótkoterminową odporność na inne typy wirusa. Kolejne infekcje różnymi typami podnoszą ryzyko ciężkich powikłań. Brak komercyjnie dostępnej szczepionki, prewencja polega na redukcji siedlisk i ilości komarów oraz zmniejszaniu ekspozycji na ukłucia.Leczenie ostrej dengi jest wspomagające. Stosuje się nawadnianie doustne bądź dożylne w przypadku choroby łagodnej lub umiarkowanej, w najcięższych przypadkach ordynując płyny dożylne i transfuzje krwi. Zapadalność na dengę wzrastała dramatycznie od lat sześćdziesiątych XX wieku, rocznie infekcji ulegało od 50 do 100 milionów ludzi. Wczesne opisy pochodzą z 1779, a wirusową etiologię i transmisję choroby wyjaśniono na początku XX wieku. Denga stała się problemem globalnym od II wojny światowej, jest endemiczna dla ponad 110 krajów. Oprócz eliminacji komarów trwają prace nad szczepionką, jak również lekiem skierowanym bezpośrednio na wirusa.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">El dengue es una enfermedad infecciosa causada por el virus del dengue, del género flavivirus o estegomia calopus que es transmitida por mosquitos, principalmente por el mosquito Aedes aegypti. La infección causa síntomas gripales (síndrome gripal), y en ocasiones evoluciona hasta convertirse en un cuadro potencialmente mortal, llamado dengue grave o dengue hemorrágico. Es una infección muy extendida que se presenta en todas las regiones tropicales y subtropicales del planeta. En los últimos años la transmisión ha aumentado de manera predominante en zonas urbanas y semiurbanas y se ha convertido en un importante problema de salud pública, hasta el punto de que en la actualidad, más de la mitad de la población mundial está en riesgo de contraer la enfermedad. La prevención y el control del dengue dependen exclusivamente de las medidas eficaces de lucha contra el vector transmisor, el mosquito.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">Dengue, ook wel knokkelkoorts genoemd, is een besmettelijke tropische ziekte die wordt veroorzaakt door het denguevirus. Tot de symptomen behoren koorts, hoofdpijn, spierpijn en gewrichtspijn, en een kenmerkende huiduitslag die lijkt op die van de mazelen. In een klein deel van de gevallen ontwikkelt de ziekte zich tot de levensbedreigende dengue-hemorragische koorts met bloedingen, laag aantal bloedplaatjes en lekkage van bloedplasma, of tot het dengue-shocksyndroom, waarbij sprake is van gevaarlijk lage bloeddruk.Dengue wordt overgedragen door verschillende soorten muggen van het geslacht Aedes, voornamelijk door de A. aegypti (denguemug). Er zijn vijf verschillende typen van het virus; infectie met één type biedt doorgaans levenslange immuniteit voor dat type, maar slechts kortdurende immuniteit voor de andere typen. Een latere infectie met een ander type verhoogt de kans op ernstige complicaties. Omdat er geen vaccin is, bestaat preventie vooral uit terugdringen van de gunstige leefomstandigheden en het aantal van de muggen en verkleining van de kans op beten.De behandeling van acute dengue is ondersteunend van aard. Bij lichte of middelzware gevallen wordt door drinken of via een infuus gezorgd voor rehydratie. Bij ernstigere gevallen worden vloeistoffen via een infuus en bloedtransfusie toegediend. De incidentie van dengue is sterk gestegen sinds de jaren &#39;60 tot circa 50–100 miljoen infecties per jaar. De eerste beschrijvingen van de aandoening dateren uit 1779 en het veroorzakende virus en de overdracht werden aan het begin van de 20e eeuw ontdekt. Dengue is na de Tweede Wereldoorlog een wereldwijd probleem geworden en is endemisch in meer dan 110 landen. Naast het uitschakelen van de muggen wordt gewerkt aan een vaccin en aan een geneesmiddel dat rechtstreeks op het virus is gericht.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">La dengue (prononcé /dɛ̃g/, « dingue »), anciennement appelée « grippe tropicale », « fièvre rouge » ou « petit palu », est une infection virale, endémique dans les pays tropicaux. La dengue est une arbovirose, transmise à l&#39;être humain par l&#39;intermédiaire de la piqûre d&#39;un moustique diurne du genre Aedes, lui-même infecté par un virus de la dengue de la famille des flaviviridae. Cette infection virale entraîne classiquement fièvre, maux de tête, douleurs musculaires et articulaires, fatigue, nausées, vomissements et éruptions cutanées. Biologiquement, on retrouve habituellement une baisse des plaquettes. La guérison survient généralement en une semaine.Il existe des formes hémorragiques ou avec syndrome de choc, rares et sévères, pouvant entraîner la mort.Il n&#39;existe pas encore de vaccin ni de traitement spécifique antiviral, mais plusieurs vaccins sont en développement, dont certains sont proches de la commercialisation (études cliniques de phase III en cours).La prise en charge repose sur un traitement symptomatique à base de médicaments contre la fièvre et la douleur. Cependant, la dengue pouvant en de rares cas évoluer vers une forme hémorragique, la prise d&#39;antiagrégants plaquettaires comme l&#39;aspirine est à proscrire. La prévention collective repose sur la lutte contre les moustiques vecteurs (extermination, chasse aux eaux stagnantes…) et sur les mesures de protection préventives individuelles contre les piqûres de moustiques (moustiquaire, répulsif…).</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">REDIRECT T:Medical small骨痛热症 (也称登革热)，是由骨痛热症病毒所引起的一種傳染病，它是由屬於黑斑蚊（也称艾迪斯蚊、伊蚊）的白線斑蚊（Aedes albopictus）與埃及斑蚊（Aedes aegypti）先叮咬患者後，成為「病媒蚊」，其它健康的人可能因這隻病媒蚊叮咬而感染。有可能出現極度疲倦及抑鬱症狀，偶然病者會惡化至骨痛溢血热症，並進一步出血、休克，甚至死亡。骨痛热症產生的併發症往往是病人致死的主因。一般來說骨痛热主要分佈在熱帶及亞熱帶地區。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">デング熱（ねつ、まれにデンゲ熱とも、英:dengue fever、イギリス発音：/dɛŋɡeɪ/、アメリカ発音：/dɛŋɡiː/）は、デングウイルス（Dengue virus）が原因の感染症であり、熱帯病の一つである。一過性の熱性疾患であり、症状には、発熱、頭痛、筋肉痛、関節痛（Arthralgia）、はしかの症状に似た特徴的な皮膚発疹を含む。急性デング熱には支持療法 （supportive therapy, supportive care）が用いられ、軽度または中等度であれば、経口もしくは点滴による水分補給、より重度の場合は、点滴静脈注射や輸血といった治療が用いられる。稀ではあるが、生命を脅かすデング出血熱に発展し、出血、血小板の減少、または血漿（けっしょう）漏出を引き起こしたり、デングショック症候群に発展して出血性ショックを引き起こすこともある。デング熱は、ヤブカ属の中でも特にネッタイシマカ（Aedes aegypti）やヒトスジシマカ（Aedes albopictus）などの蚊によって媒介される。ただし、ヒトスジシマカにとってヒトは主な吸血対象ではなく、デング熱の媒介はまれである。このウイルスには4つの異なる型があり、ある型に感染すると、通常その型に対する終生免疫を獲得するが、他の型に対する免疫は短期間にとどまる。また、異なる型に続けて感染すると、重度の合併症のリスクが高まる。デング熱が文献に現れるようになったのは1779年からであり、ウイルスが原因であることや伝染経路について解明されたのは、20世紀初頭である。第二次世界大戦以降、デング熱は世界的に広まり、1960年代からその発生数は急激に増加している。現在では、110ヶ国以上で毎年およそ5,000万から1億人が感染する風土病となっている。その原因として、急激な都市化や地球温暖化が関与していると考えられている。対策としては、蚊の駆除の他に、ワクチンの研究やウイルスに直接働きかける薬物治療の研究が進められている。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ar">حمى الضنك أو &quot;حمى الدنج&quot; أو &quot;الدنك&quot; (بالإنكليزية: Dengue Fever) أو حمى الضنك النزفية هي أمراض حمّية حادة, توجد في المناطق المدارية حيث تعتبر من الأمراض المدارية المهملة, ويسببها أربعة أنماط مصلية متقاربة من جنس الفيروس المصفر (flavivirus) من عائلة الفيروسات الخيطية وتعرف أيضا بحمى العظم المكسور. يشمل انتشارها الجغرافي شمالي أستراليا, وشمالي الأرجنتين, وسنغافورة بأكملها, وماليزيا, وتايوان, وتايلاند, والفيتنام, وإندونيسيا, وهندوراس, وكوستاريكا, والفيليبين, وباكستان, والهند, وسيريلنكا, والبنغلاديش, والمكسيك, وسورينام, وجمهورية الدومنيكان, والبرازيل, وغويانا, وفنزويلا, وباربيدوس, وترنيداد وسامو. على خلاف الملاريا؛ فإن حمّى الضنك سائدة في المناطق الحضرية كما هي في المناطق الريفية. تختلف الأنماط المصلية عن بعضها بما فيه الكفاية لمنع وجود حماية شاملة مشتركة أو حدوث وباء (فوق استيطاني) ينتج عن عدة أنماط مصلية. حمى الضنك تنتقل إلى البشر عبر بعوضة آييدس إجيبتاي (Aedes aegypti) أو نادرا عن طريق بعوضة آييدس ألبوبيكتس (Aedes albopictus), اللاتي يتغذيان خلال ساعات النهار.تقول منظمة الصحة العالمية أن حوالي اثنين ونصف مليار شخص ويشكلون خمسي سكان العالم؛ معرضون لخطر الإصابة بالضنك، وتقدر أنه قد يكون هناك خمسون مليون حالة من الضنك في العالم كل سنة. حمى الضنك الآن مرض متوطن في أكثر من مائة بلد.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Dengue fever (UK /ˈdɛŋɡeɪ/ or US /ˈdɛŋɡiː/), also known as breakbone fever, is a mosquito-borne tropical disease caused by the dengue virus. Symptoms include fever, headache, muscle and joint pains, and a characteristic skin rash that is similar to measles. In a small proportion of cases the disease develops into the life-threatening dengue hemorrhagic fever, resulting in bleeding, low levels of blood platelets and blood plasma leakage, or into dengue shock syndrome, where dangerously low blood pressure occurs.Dengue is transmitted by several species of mosquito within the genus Aedes, principally A. aegypti. The virus has five different types; infection with one type usually gives lifelong immunity to that type, but only short-term immunity to the others. Subsequent infection with a different type increases the risk of severe complications. As there is no commercially available vaccine, prevention is sought by reducing the habitat and the number of mosquitoes and limiting exposure to bites.Treatment of acute dengue is supportive, using either oral or intravenous rehydration for mild or moderate disease, and intravenous fluids and blood transfusion for more severe cases. The number of cases of dengue fever has increased dramatically since the 1960s, with between 50 and 528 million people infected yearly. Early descriptions of the condition date from 1779, and its viral cause and the transmission were figured out in the early 20th century. Dengue has become a global problem since the Second World War and is endemic in more than 110 countries. Apart from eliminating the mosquitoes, work is ongoing on a vaccine, as well as medication targeted directly at the virus.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">La febbre dengue, più conosciuta semplicemente come dengue, è una malattia infettiva tropicale causata dal virus Dengue. Il virus esiste in quattro sierotipi differenti (DENV-1, DENV-2, DENV-3, DENV-4) e generalmente l&#39;infezione con un tipo garantisce un&#39;immunità a vita per quel tipo, mentre comporta solamente una breve e non duratura immunità nei confronti degli altri. L&#39;ulteriore infezione con un altro sierotipo comporta un aumento del rischio di complicanze gravi.La malattia è trasmessa da zanzare del genere Aedes, in particolar modo la specie aegypti.Si presenta con febbre, cefalea, dolore muscolare e articolare, oltre al caratteristico rash simile a quello del morbillo. In una piccola percentuale dei casi si sviluppa una febbre emorragica pericolosa per la vita, con trombocitopenia, emorragie e perdita di liquidi, che può evolvere in shock circolatorio e morte. Non esistendo una vaccinazione efficace, la prevenzione si ottiene mediante l&#39;eliminazione delle zanzare e del loro habitat, per limitare l&#39;esposizione al rischio di trasmissione.La terapia è di supporto e si basa sull&#39;idratazione in caso di una forma lieve-moderata di malattia e, nei casi più gravi, sulla somministrazione endovenosa di liquidi e sull&#39;emotrasfusione. La prima descrizione della malattia è del 1779 e la sua eziologia è stata dimostrata nei primi anni del XX secolo. L&#39;incidenza della dengue è cresciuta molto rapidamente a partire dagli anni sessanta, con circa 50-100 milioni di persone infettate ogni anno, e risulta endemica in 110 paesi.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">Das Denguefieber [ˈdɛŋge…] (umgangssprachlich auch „Dandy-Fieber“ oder „Knochenbrecherfieber“ genannt) ist eine Krankheit, deren Ursache eine Infektion mit dem Dengue-Virus ist. Bei dem Virus handelt es sich um ein 40 bis 60 nm großes, behülltes RNA-Virus mit positiver Polarität aus der Familie der Flaviviren.Das Virus wird durch den Stich einer Mücke übertragen und ist in tropischen und subtropischen Gebieten verbreitet. Die einzigen bekannten Wirte des Virus sind Primaten und verschiedene Stechmückenarten. Es existieren vier verschiedene Serotypen (Untergruppen) des Virus, die sehr wahrscheinlich unabhängig voneinander innerhalb der letzten 2000 Jahre in Asien von nichtmenschlichen Primaten auf den Menschen übersprangen.Seit dem Zweiten Weltkrieg und der folgenden Globalisierung ist das Denguefieber unter anderem durch die Verbreitung seines Überträgers auf dem Vormarsch und wird oft auch als emerging disease (sich ausbreitende Krankheit) bezeichnet. Bei Denguefieber handelt es sich um die sich am schnellsten ausbreitende, virale, von Moskitos übertragene Krankheit; die Fallzahlen haben sich von 1960 bis 2010 verdreißigfacht.Die Krankheit äußert sich häufig mit unspezifischen Symptomen oder solchen, die einer schweren Grippe ähneln; es kann aber auch zu inneren Blutungen kommen. Bei einem schweren Krankheitsverlauf können ein sogenanntes „Hämorrhagisches Denguefieber“ (DHF) oder ein Dengue-Schock-Syndrom (DSS) auftreten, die beide zum Tode führen können. Die WHO schätzt, dass jährlich 50 bis 100 Millionen Personen erkranken, 500.000 Personen einen schweren Krankheitsverlauf durchleiden und 22.000 Personen an Denguefieber sterben; die meisten der Todesopfer sind Kinder. Wissenschaftler aus Oxford und Heidelberg berichteten im April 2013 in der Zeitschrift Nature, dass sich tatsächlich aber laut ihren Untersuchungen jährlich rund 390 Millionen Menschen mit dem Erreger des Dengue-Fiebers infizierten.Bislang gibt es gegen die Erkrankung weder eine Impfung noch eine spezifische antivirale Behandlung. In Deutschland, Österreich und der Schweiz besteht eine Meldepflicht bei Verdacht, Erkrankung, Tod, direktem und indirektem Erregernachweis oder hämorrhagischem Krankheitsverlauf.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Dengue é uma doença tropical infecciosa causada pelo vírus da dengue, um arbovírus da família Flaviviridae, gênero Flavivírus e que inclui quatro tipos imunológicos: DEN-1, DEN-2, DEN-3 e DEN-4. Os sintomas incluem febre, dor de cabeça, dores musculares e articulares e uma erupção cutânea característica que é semelhante a causada pelo sarampo. Em uma pequena proporção de casos, a doença pode evoluir para a dengue hemorrágica com risco de vida, resultando em sangramento, baixos níveis de plaquetas sanguíneas, extravasamento de plasma no sangue ou até diminuição da pressão arterial a níveis perigosamente baixos.A dengue é transmitida por várias espécies de mosquito do gênero Aedes, principalmente o Aedes aegypti. O vírus tem cinco tipos diferentes e a infecção por um deles dá proteção permanente para o mesmo sorotipo e imunidade parcial e temporária contra os outros três. Um contágio subsequente por algum tipo diferente do vírus aumenta o risco de complicações graves no paciente. Como não há vacina disponível no mercado, a melhor forma de evitar a epidemia é a prevenção, através da redução ou destruição do habitat e da população de mosquitos transmissores e da limitação da exposição a picadas.A dengue tem, como hospedeiro vertebrado o ser humano e outros primatas, mas somente o primeiro apresenta manifestação clínica da infecção e período de viremia de aproximadamente sete dias. Nos demais primatas, a viremia é baixa e de curta duração. Atualmente, a dengue é a arbovirose mais comum que atinge a humanidade, sendo responsável por cerca de 100 milhões de casos/ano em uma população de risco de 2,5 a 3 bilhões de seres humanos.O tratamento da dengue é de apoio, com reidratação oral ou intravenosa para os casos leves ou moderados e fluidos intravenosos e transfusão de sangue para os casos mais graves. O número de casos da doença tem aumentado dramaticamente desde os anos 1960, com cerca de 50 a 390 milhões de pessoas infectadas todos os anos. A dengue é endêmica do sudeste asiático e as primeiras descrições da doença datam de 1779, sendo que sua causa viral e seu modo de transmissão foram descobertos no início do século XX. A dengue se tornou um problema global desde a Segunda Guerra Mundial e é endêmica em mais de 110 países diferentes, principalmente em regiões tropicais de Oceania, África Oriental, Caribe e América. Além de eliminar os mosquitos, pesquisas para o desenvolvimento de uma vacina, bem como a medicação diretamente orientada para esse tipo de vírus são formas de controlar a doenças.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Лихорадка денге (костоломная лихорадка, суставная лихорадка, лихорадка жирафов, пятидневная лихорадка, семидневная лихорадка, финиковая болезнь) — острое трансмиссивное вирусное заболевание. Протекает с лихорадкой, интоксикацией, миалгией, артралгией, сыпью и увеличением лимфатических узлов. При некоторых вариантах лихорадки Денге развивается геморрагический синдром.Встречается лихорадка Денге преимущественно в странах Южной и Юго-Восточной Азии, Африки, Океании и Карибского бассейна. Преимущественно заболевают дети и вновь прибывшие в эндемичный район лица.Вирусы-возбудители лихорадки денге относятся к арбовирусам, семейства Togaviridae рода Flavivirus (арбовирусы антигенной группы В).Источником инфекции является больной человек, обезьяны и летучие мыши. Передачу инфекции от больного человека осуществляют комары (Aedes aegypti) у человека и (Aedes albopictus) у обезьян.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Dengue fever</foaf:name>
+    <dbpedia-owl:diseasesdb>3564</dbpedia-owl:diseasesdb>
+    <dbpedia-owl:emedicineSubject xml:lang="en">med</dbpedia-owl:emedicineSubject>
+    <dbpedia-owl:emedicineTopic xml:lang="en">528</dbpedia-owl:emedicineTopic>
+    <dbpedia-owl:icd10>A90</dbpedia-owl:icd10>
+    <dbpedia-owl:icd9>061</dbpedia-owl:icd9>
+    <dbpedia-owl:medlineplus>001374</dbpedia-owl:medlineplus>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-disease-noun-1" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Dengue_fever?oldid=605758810" />
+    <rdfs:comment xml:lang="fr">La dengue (prononcé /dɛ̃g/, « dingue »), anciennement appelée « grippe tropicale », « fièvre rouge » ou « petit palu », est une infection virale, endémique dans les pays tropicaux. La dengue est une arbovirose, transmise à l&#39;être humain par l&#39;intermédiaire de la piqûre d&#39;un moustique diurne du genre Aedes, lui-même infecté par un virus de la dengue de la famille des flaviviridae.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Dengue, ook wel knokkelkoorts genoemd, is een besmettelijke tropische ziekte die wordt veroorzaakt door het denguevirus. Tot de symptomen behoren koorts, hoofdpijn, spierpijn en gewrichtspijn, en een kenmerkende huiduitslag die lijkt op die van de mazelen.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">デング熱（ねつ、まれにデンゲ熱とも、英:dengue fever、イギリス発音：/dɛŋɡeɪ/、アメリカ発音：/dɛŋɡiː/）は、デングウイルス（Dengue virus）が原因の感染症であり、熱帯病の一つである。一過性の熱性疾患であり、症状には、発熱、頭痛、筋肉痛、関節痛（Arthralgia）、はしかの症状に似た特徴的な皮膚発疹を含む。急性デング熱には支持療法 （supportive therapy, supportive care）が用いられ、軽度または中等度であれば、経口もしくは点滴による水分補給、より重度の場合は、点滴静脈注射や輸血といった治療が用いられる。稀ではあるが、生命を脅かすデング出血熱に発展し、出血、血小板の減少、または血漿（けっしょう）漏出を引き起こしたり、デングショック症候群に発展して出血性ショックを引き起こすこともある。デング熱は、ヤブカ属の中でも特にネッタイシマカ（Aedes aegypti）やヒトスジシマカ（Aedes albopictus）などの蚊によって媒介される。ただし、ヒトスジシマカにとってヒトは主な吸血対象ではなく、デング熱の媒介はまれである。このウイルスには4つの異なる型があり、ある型に感染すると、通常その型に対する終生免疫を獲得するが、他の型に対する免疫は短期間にとどまる。また、異なる型に続けて感染すると、重度の合併症のリスクが高まる。デング熱が文献に現れるようになったのは1779年からであり、ウイルスが原因であることや伝染経路について解明されたのは、20世紀初頭である。第二次世界大戦以降、デング熱は世界的に広まり、1960年代からその発生数は急激に増加している。現在では、110ヶ国以上で毎年およそ5,000万から1億人が感染する風土病となっている。その原因として、急激な都市化や地球温暖化が関与していると考えられている。対策としては、蚊の駆除の他に、ワクチンの研究やウイルスに直接働きかける薬物治療の研究が進められている。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Denga – infekcyjna choroba tropikalna wywoływana przez wirus dengi. Objawy obejmują gorączkę, ból głowy, mięśni i stawów oraz charakterystyczną wysypkę, przypominającą spotykaną w odrze. W odosobnionych przypadkach choroba prowadzi do zagrażającej życiu gorączki krwotocznej z krwotokami, trombocytopenią i hipowolemią, może się także rozwinąć wstrząs, w którym niebezpiecznie spada ciśnienie krwi.Dengę przenosi kilka gatunków komarów należących do rodzaju Aedes, zwłaszcza A. aegypti.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La febbre dengue, più conosciuta semplicemente come dengue, è una malattia infettiva tropicale causata dal virus Dengue. Il virus esiste in quattro sierotipi differenti (DENV-1, DENV-2, DENV-3, DENV-4) e generalmente l&#39;infezione con un tipo garantisce un&#39;immunità a vita per quel tipo, mentre comporta solamente una breve e non duratura immunità nei confronti degli altri.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">REDIRECT T:Medical small骨痛热症 (也称登革热)，是由骨痛热症病毒所引起的一種傳染病，它是由屬於黑斑蚊（也称艾迪斯蚊、伊蚊）的白線斑蚊（Aedes albopictus）與埃及斑蚊（Aedes aegypti）先叮咬患者後，成為「病媒蚊」，其它健康的人可能因這隻病媒蚊叮咬而感染。有可能出現極度疲倦及抑鬱症狀，偶然病者會惡化至骨痛溢血热症，並進一步出血、休克，甚至死亡。骨痛热症產生的併發症往往是病人致死的主因。一般來說骨痛热主要分佈在熱帶及亞熱帶地區。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Dengue fever (UK /ˈdɛŋɡeɪ/ or US /ˈdɛŋɡiː/), also known as breakbone fever, is a mosquito-borne tropical disease caused by the dengue virus. Symptoms include fever, headache, muscle and joint pains, and a characteristic skin rash that is similar to measles.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El dengue es una enfermedad infecciosa causada por el virus del dengue, del género flavivirus o estegomia calopus que es transmitida por mosquitos, principalmente por el mosquito Aedes aegypti. La infección causa síntomas gripales (síndrome gripal), y en ocasiones evoluciona hasta convertirse en un cuadro potencialmente mortal, llamado dengue grave o dengue hemorrágico. Es una infección muy extendida que se presenta en todas las regiones tropicales y subtropicales del planeta.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Das Denguefieber [ˈdɛŋge…] (umgangssprachlich auch „Dandy-Fieber“ oder „Knochenbrecherfieber“ genannt) ist eine Krankheit, deren Ursache eine Infektion mit dem Dengue-Virus ist. Bei dem Virus handelt es sich um ein 40 bis 60 nm großes, behülltes RNA-Virus mit positiver Polarität aus der Familie der Flaviviren.Das Virus wird durch den Stich einer Mücke übertragen und ist in tropischen und subtropischen Gebieten verbreitet.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Лихорадка денге (костоломная лихорадка, суставная лихорадка, лихорадка жирафов, пятидневная лихорадка, семидневная лихорадка, финиковая болезнь) — острое трансмиссивное вирусное заболевание. Протекает с лихорадкой, интоксикацией, миалгией, артралгией, сыпью и увеличением лимфатических узлов. При некоторых вариантах лихорадки Денге развивается геморрагический синдром.Встречается лихорадка Денге преимущественно в странах Южной и Юго-Восточной Азии, Африки, Океании и Карибского бассейна.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">حمى الضنك أو &quot;حمى الدنج&quot; أو &quot;الدنك&quot; (بالإنكليزية: Dengue Fever) أو حمى الضنك النزفية هي أمراض حمّية حادة, توجد في المناطق المدارية حيث تعتبر من الأمراض المدارية المهملة, ويسببها أربعة أنماط مصلية متقاربة من جنس الفيروس المصفر (flavivirus) من عائلة الفيروسات الخيطية وتعرف أيضا بحمى العظم المكسور.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Dengue é uma doença tropical infecciosa causada pelo vírus da dengue, um arbovírus da família Flaviviridae, gênero Flavivírus e que inclui quatro tipos imunológicos: DEN-1, DEN-2, DEN-3 e DEN-4. Os sintomas incluem febre, dor de cabeça, dores musculares e articulares e uma erupção cutânea característica que é semelhante a causada pelo sarampo.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39669</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">605758810</dbpedia-owl:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Burton_Cleland">
+    <dbpprop:knownFor rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DSS">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_fever_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Break-bone_fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rajpal_Singh_Yadav">
+    <dbpprop:fields rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%E0%AE%9F%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B2%E0%AF%8D">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bonecrusher_disease">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Break_Bone_Fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Breakbone_fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Classical_dengue">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dandy_Fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dandy_fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengay">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengay_Fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denggi">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denggi_fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengi_fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue-fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_Fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_Fever2">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_Fever_(tropical_disease)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_Shock_Syndrome">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_fever_(tropical_disease)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_haemorrhagic_fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_symptoms_and_prevention">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Severe_dengue">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_hemorrhagic_fever">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Denguefieber">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://el.dbpedia.org/resource/Δάγκειος_πυρετός">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q30953">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/デング熱">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ko.dbpedia.org/resource/뎅기열">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Denga">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dengue_shock_syndrome">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Dengue_fever">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Demam_berdarah">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ar.dbpedia.org/resource/حمى_الضنك">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bg.dbpedia.org/resource/Денга">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bn.dbpedia.org/resource/ডেঙ্গু_জ্বর">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ca.dbpedia.org/resource/Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/Denguefeber">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dv.dbpedia.org/resource/ޑެންގީ_ހުން">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Dengo">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fa.dbpedia.org/resource/تب_دنگی">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fi.dbpedia.org/resource/Denguekuume">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gu.dbpedia.org/resource/ડેન્ગ્યુ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/קדחת_דנגי">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hi.dbpedia.org/resource/डेंगू">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hr.dbpedia.org/resource/Denga_groznica">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/Dengue-láz">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ia.dbpedia.org/resource/Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://is.dbpedia.org/resource/Beinbrunasótt">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://jv.dbpedia.org/resource/Demam_berdarah_dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://km.dbpedia.org/resource/រោគគ្រុនចាញ់">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kn.dbpedia.org/resource/ಡೆಂಗೇ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://la.dbpedia.org/resource/Febris_dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mk.dbpedia.org/resource/Денга">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ml.dbpedia.org/resource/ഡെങ്കിപ്പനി">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mr.dbpedia.org/resource/डेंग्यू_ताप">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ms.dbpedia.org/resource/Demam_Denggi">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://my.dbpedia.org/resource/သွေးလွန်တုပ်ကွေး">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ne.dbpedia.org/resource/डेङ्गु">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oc.dbpedia.org/resource/Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://or.dbpedia.org/resource/ଡେଙ୍ଗୁ_ଜର">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pnb.dbpedia.org/resource/ڈنگی_تاپ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ro.dbpedia.org/resource/Febră_Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Лихорадка_денге">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scn.dbpedia.org/resource/Tirzana">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://si.dbpedia.org/resource/ඩෙංගු">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simple.dbpedia.org/resource/Dengue_fever">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sk.dbpedia.org/resource/Horúčka_dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sr.dbpedia.org/resource/Денга_грозница">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Denguefeber">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ta.dbpedia.org/resource/டெங்கு_காய்ச்சல்">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://te.dbpedia.org/resource/డెంగీ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://th.dbpedia.org/resource/ไข้เด็งกี">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tl.dbpedia.org/resource/Lagnat_na_dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Deng_humması">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Гарячка_денге">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ur.dbpedia.org/resource/ڈینگی_بخار">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vi.dbpedia.org/resource/Sốt_xuất_huyết_Dengue">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://war.dbpedia.org/resource/Dengue_nga_Hiranat">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/骨痛熱症">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh_min_nan.dbpedia.org/resource/Thian-káu-jia̍t">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dengue_fever" />
+  </rdf:Description>
+</rdf:RDF>

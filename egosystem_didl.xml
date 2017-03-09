@@ -1,0 +1,258 @@
+<didl:DIDL xmlns:didl="urn:mpeg:mpeg21:2002:02-DIDL-NS" xmlns:diext="http://library.lanl.gov/2005-08/aDORe/DIDLextension/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DIDLDocumentId="info:lanl-repo/i/51f43b2b-e602-447c-8e4e-529fc73c184d" diext:DIDLDocumentCreated="2014-04-14T20:41:59Z" xsi:schemaLocation="urn:mpeg:mpeg21:2002:02-DIDL-NS http://purl.lanl.gov/aDORe/schemas/2006-09/DIDL.xsd http://library.lanl.gov/2005-08/aDORe/DIDLextension/ http://purl.lanl.gov/aDORe/schemas/2006-09/DIDLextension.xsd">
+  <didl:Item id="uuid-46f31d39-8ee8-44f7-af4a-edfd5d64834a">
+    <didl:Descriptor>
+      <didl:Statement mimeType="application/xml; charset=utf-8">
+        <dii:Identifier xmlns:dii="urn:mpeg:mpeg21:2002:01-DII-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:mpeg21:2002:01-DII-NS http://purl.lanl.gov/aDORe/schemas/2006-09/DII.xsd">info:lanl-repo/lareport/LA-UR-14-22471</dii:Identifier>
+      </didl:Statement>
+    </didl:Descriptor>
+    <didl:Descriptor>
+      <didl:Statement mimeType="application/xml; charset=utf-8">
+        <diadm:DIADM xmlns:diadm="http://library.lanl.gov/2005-08/aDORe/DIADM/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://library.lanl.gov/2005-08/aDORe/DIADM/ http://purl.lanl.gov/aDORe/schemas/2006-09/DIADM.xsd">
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/pro/publication</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/subject/LANLAuthors</dc:subject>
+          
+          <dcterms:isPartOf xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://purl.lanl.gov/aDORe/schemas/2006-09/dcterms.xsd">info:sid/library.lanl.gov:rassti</dcterms:isPartOf>
+        </diadm:DIADM>
+      </didl:Statement>
+    </didl:Descriptor>
+    <didl:Component id="uuid-d3879efe-72e8-4c19-8f83-b5854e92662c">
+      <didl:Descriptor>
+        <didl:Statement mimeType="application/xml; charset=utf-8">
+          <dii:Identifier xmlns:dii="urn:mpeg:mpeg21:2002:01-DII-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:mpeg21:2002:01-DII-NS http://purl.lanl.gov/aDORe/schemas/2006-09/DII.xsd">info:lanl-repo/ds/30344a1e-4cd5-4697-a8c6-be15f4a930e5</dii:Identifier>
+        </didl:Statement>
+      </didl:Descriptor>
+      <didl:Descriptor>
+        <didl:Statement mimeType="application/xml; charset=utf-8">
+          <diadm:DIADM xmlns:diadm="http://library.lanl.gov/2005-08/aDORe/DIADM/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://library.lanl.gov/2005-08/aDORe/DIADM/ http://purl.lanl.gov/aDORe/schemas/2006-09/DIADM.xsd">
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/creator/LANL-RTF</dc:creator>
+            <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/fmt/3</dc:format>
+            <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/sem/1</dc:type>
+            <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://purl.lanl.gov/aDORe/schemas/2006-09/dcterms.xsd">2014-04-14T20:41:59Z</dcterms:created>
+            <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://purl.lanl.gov/aDORe/schemas/2006-09/dcterms.xsd">9960</dcterms:extent>
+            <dcterms:isFormatOf xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://purl.lanl.gov/aDORe/schemas/2006-09/dcterms.xsd">info:lanl-repo/ds/e6287461-cdd9-4324-a334-b73c4404e863</dcterms:isFormatOf>
+          </diadm:DIADM>
+        </didl:Statement>
+      </didl:Descriptor>
+      <didl:Descriptor>
+        <didl:Statement mimeType="application/xml; charset=utf-8">
+          <dii:RelatedIdentifier xmlns:dii="urn:mpeg:mpeg21:2002:01-DII-NS" relationshipType="info:lanl-repo/sem/6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:mpeg21:2002:01-DII-NS http://purl.lanl.gov/aDORe/schemas/2006-09/DII.xsd">urn:sha1:HSV7IUIBIF2BRP6QBBSYGSLFQU7CGF7L</dii:RelatedIdentifier>
+        </didl:Statement>
+      </didl:Descriptor>
+      <didl:Resource mimeType="application/xml">
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://purl.lanl.gov/vendors/schemas/MARC/2006-02/MARC21slim.xsd">
+          <marc:leader>00000nam  2200000zu 4500</marc:leader>
+          <marc:controlfield tag="001">LA-UR-14-22471</marc:controlfield>
+          <marc:controlfield tag="005">2014-04-14T20:41:59Z</marc:controlfield>
+          <marc:controlfield tag="008">140414s2014    nmu|||||||||||||||||eng|d</marc:controlfield>
+          <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">LA-UR-14-22471</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">RASSTI</marc:subfield>
+            <marc:subfield code="c">NmLaS</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="041" ind1="0" ind2="7">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="2">ISO639-2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="088" ind1=" " ind2=" ">
+            <marc:subfield code="a">LA-UR-14-22471</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">EgoSystem: Where are our Alumni?</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2014-04-14</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">21 p.</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="536" ind1=" " ind2=" ">
+            <marc:subfield code="a">DOE/LANL</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Information Science</marc:subfield>
+            <marc:subfield code="2">RASSTI : dusa_designator : /record[1]/dusa_designator[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Mathematics &amp; Computing(97)</marc:subfield>
+            <marc:subfield code="2">RASSTI : osti_subject : /record[1]/osti_subject[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Full Paper</marc:subfield>
+            <marc:subfield code="2">RASSTI : doc_type : /record[1]/doc_type[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Journal</marc:subfield>
+            <marc:subfield code="2">RASSTI : journal : /record[1]/purpose[1]/journal[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Web</marc:subfield>
+            <marc:subfield code="2">RASSTI : Web : /record[1]/purpose[1]/Web[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Powell, James E. Jr.</marc:subfield>
+            <marc:subfield code="4">author</marc:subfield>
+            <marc:subfield code="e">Author</marc:subfield>
+            <marc:subfield code="g">jepowell@lanl.gov</marc:subfield>
+            <marc:subfield code="u">SRO-RL: RESEARCH LIBRARY</marc:subfield>
+            <marc:subfield code="9">215228</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Shankar, Harihar</marc:subfield>
+            <marc:subfield code="4">author</marc:subfield>
+            <marc:subfield code="e">Author</marc:subfield>
+            <marc:subfield code="g">harihar@lanl.gov</marc:subfield>
+            <marc:subfield code="u">SRO-RL: RESEARCH LIBRARY</marc:subfield>
+            <marc:subfield code="9">231956</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Rodriguez, Marko</marc:subfield>
+            <marc:subfield code="4">author</marc:subfield>
+            <marc:subfield code="e">Author</marc:subfield>
+            <marc:subfield code="u">Aurelius LLC</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Van De Sompel, Herbert</marc:subfield>
+            <marc:subfield code="4">author</marc:subfield>
+            <marc:subfield code="e">Author</marc:subfield>
+            <marc:subfield code="g">herbertv@lanl.gov</marc:subfield>
+            <marc:subfield code="u">SRO-RL: RESEARCH LIBRARY</marc:subfield>
+            <marc:subfield code="9">165868</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Magnoni, Dianna</marc:subfield>
+            <marc:subfield code="4">rlm</marc:subfield>
+            <marc:subfield code="e">Responsible line manager</marc:subfield>
+            <marc:subfield code="u">SRO-RL: RESEARCH LIBRARY</marc:subfield>
+            <marc:subfield code="9">288523</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Powell, James E. Jr.</marc:subfield>
+            <marc:subfield code="4">metadata_supplier</marc:subfield>
+            <marc:subfield code="e">Metadata supplier</marc:subfield>
+            <marc:subfield code="u">SRO-RL: RESEARCH LIBRARY</marc:subfield>
+            <marc:subfield code="9">215228</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">SRO-RL: RESEARCH LIBRARY</marc:subfield>
+            <marc:subfield code="e">Group</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Aurelius LLC</marc:subfield>
+            <marc:subfield code="e">Other</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="n">Journal</marc:subfield>
+            <marc:subfield code="t">Code4Lib</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">Version1</marc:subfield>
+            <marc:subfield code="2">RASSTI : type : /record[1]/@type</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">NMzwZ2v6Vz</marc:subfield>
+            <marc:subfield code="2">RASSTI : internalId : /record[1]/internalId[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">2014-04-14 06:59:00</marc:subfield>
+            <marc:subfield code="2">RASSTI : datetm : /record[1]/rlm[1]/datetm[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">3X030A-W58E</marc:subfield>
+            <marc:subfield code="2">RASSTI : cost_code : /record[1]/cost_code[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">No</marc:subfield>
+            <marc:subfield code="2">RASSTI : patentable : /record[1]/patentable[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">No</marc:subfield>
+            <marc:subfield code="2">RASSTI : draft : /record[1]/draft[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">1</marc:subfield>
+            <marc:subfield code="2">RASSTI : version : /record[1]/status[1]/approved[1]/version[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">2014-04-14</marc:subfield>
+            <marc:subfield code="2">RASSTI : date : /record[1]/status[1]/approved[1]/date[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">2014-04-09 14:32:22</marc:subfield>
+            <marc:subfield code="2">RASSTI : datetm : /record[1]/metadata_supplier[1]/datetm[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">2014-04-09 14:50:48</marc:subfield>
+            <marc:subfield code="2">RASSTI : datetm : /record[1]/submitter[1]/datetm[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">logicWithhold</marc:subfield>
+            <marc:subfield code="2">RASSTI : determination : /record[1]/toOsti[1]/@determination</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">c043abc8745da68927b7ab597b98d73f</marc:subfield>
+            <marc:subfield code="2">RASSTI : originalSum : /record[1]/md5sums[1]/originalSum[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">fa2c2b2fec048b3ec5a10ada41394b1c</marc:subfield>
+            <marc:subfield code="2">RASSTI : mergedSum : /record[1]/md5sums[1]/mergedSum[1]</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="887" ind1=" " ind2=" ">
+            <marc:subfield code="a">NMzwZ2v6Vz.Version.1.LA-UR-14-22471.pdf</marc:subfield>
+            <marc:subfield code="2">RASSTI : pdf : /record[1]/pdf[1]</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </didl:Resource>
+      <didl:Resource mimeType="application/xml" ref="info:lanl-repo/ds/30344a1e-4cd5-4697-a8c6-be15f4a930e5"/>
+    </didl:Component>
+    <didl:Component id="uuid-65395fe8-a4e7-4ae5-b27d-b415395114c3">
+      <didl:Descriptor>
+        <didl:Statement mimeType="application/xml; charset=utf-8">
+          <dii:Identifier xmlns:dii="urn:mpeg:mpeg21:2002:01-DII-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:mpeg21:2002:01-DII-NS http://purl.lanl.gov/aDORe/schemas/2006-09/DII.xsd">info:lanl-repo/ds/e6287461-cdd9-4324-a334-b73c4404e863</dii:Identifier>
+        </didl:Statement>
+      </didl:Descriptor>
+      <didl:Descriptor>
+        <didl:Statement mimeType="application/xml; charset=utf-8">
+          <diadm:DIADM xmlns:diadm="http://library.lanl.gov/2005-08/aDORe/DIADM/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://library.lanl.gov/2005-08/aDORe/DIADM/ http://purl.lanl.gov/aDORe/schemas/2006-09/DIADM.xsd">
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/creator/RASSTI</dc:creator>
+            <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/fmt/540</dc:format>
+            <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/sem/1</dc:type>
+            <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://purl.lanl.gov/aDORe/schemas/2006-09/dcterms.xsd">2014-04-14</dcterms:created>
+            <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://purl.lanl.gov/aDORe/schemas/2006-09/dcterms.xsd">2081</dcterms:extent>
+          </diadm:DIADM>
+        </didl:Statement>
+      </didl:Descriptor>
+      <didl:Descriptor>
+        <didl:Statement mimeType="application/xml; charset=utf-8">
+          <dii:RelatedIdentifier xmlns:dii="urn:mpeg:mpeg21:2002:01-DII-NS" relationshipType="info:lanl-repo/sem/6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:mpeg21:2002:01-DII-NS http://purl.lanl.gov/aDORe/schemas/2006-09/DII.xsd">urn:sha1:O2FWYUW6NNOCKOSG7I2AG34WZA7UTTSG</dii:RelatedIdentifier>
+        </didl:Statement>
+      </didl:Descriptor>
+      <didl:Resource mimeType="application/xml" ref="info:lanl-repo/ds/e6287461-cdd9-4324-a334-b73c4404e863"/>
+    </didl:Component>
+    <didl:Component id="uuid-5592b27e-51f0-4fe2-9b1e-5a0c1022bef0">
+      <didl:Descriptor>
+        <didl:Statement mimeType="application/xml; charset=utf-8">
+          <dii:Identifier xmlns:dii="urn:mpeg:mpeg21:2002:01-DII-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:mpeg21:2002:01-DII-NS http://purl.lanl.gov/aDORe/schemas/2006-09/DII.xsd">info:lanl-repo/ds/92e26fc1-e5ef-4543-9974-99854a26516e</dii:Identifier>
+        </didl:Statement>
+      </didl:Descriptor>
+      <didl:Descriptor>
+        <didl:Statement mimeType="application/xml; charset=utf-8">
+          <dii:RelatedIdentifier xmlns:dii="urn:mpeg:mpeg21:2002:01-DII-NS" relationshipType="info:lanl-repo/sem/6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:mpeg21:2002:01-DII-NS http://purl.lanl.gov/aDORe/schemas/2006-09/DII.xsd">urn:sha1:PSFQN5HDDFHCDNY46EPA6SJDVH4DQOZ3</dii:RelatedIdentifier>
+        </didl:Statement>
+      </didl:Descriptor>
+      <didl:Descriptor>
+        <didl:Statement mimeType="application/xml; charset=utf-8">
+          <diadm:DIADM xmlns:diadm="http://library.lanl.gov/2005-08/aDORe/DIADM/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://library.lanl.gov/2005-08/aDORe/DIADM/ http://purl.lanl.gov/aDORe/schemas/2006-09/DIADM.xsd">
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/creator/RASSTI</dc:creator>
+            <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/fmt/5</dc:format>
+            <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">info:lanl-repo/sem/4</dc:type>
+            <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://purl.lanl.gov/aDORe/schemas/2006-09/dcterms.xsd">5529614</dcterms:extent>
+            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://purl.lanl.gov/aDORe/schemas/2006-09/dc.xsd">LA-UR-14-22471.pdf</dc:title>
+          </diadm:DIADM>
+        </didl:Statement>
+      </didl:Descriptor>
+      <didl:Resource mimeType="application/pdf" ref="info:lanl-repo/ds/92e26fc1-e5ef-4543-9974-99854a26516e"/>
+    </didl:Component>
+  </didl:Item>
+</didl:DIDL>

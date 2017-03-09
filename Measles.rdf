@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Measles">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Disease" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/AilmentCondition" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation" />
+    <owl:sameAs rdf:resource="http://ml.dbpedia.org/resource/അഞ്ചാംപനി" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Spalničky" />
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/سرخک" />
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Mæslinger" />
+    <owl:sameAs rdf:resource="http://te.dbpedia.org/resource/తట్టు" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Sarampión" />
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Rujeolă" />
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/खसरा" />
+    <owl:sameAs rdf:resource="http://be_x_old.dbpedia.org/resource/Адзёр" />
+    <owl:sameAs rdf:resource="http://lb.dbpedia.org/resource/Riedelen" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Morbillo" />
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Kanyaró" />
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Xarampió" />
+    <owl:sameAs rdf:resource="http://ky.dbpedia.org/resource/Кызылча_(оору)" />
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q79793" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Корь" />
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Masalas" />
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Osýpky" />
+    <owl:sameAs rdf:resource="http://af.dbpedia.org/resource/Masels" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ιλαρά" />
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Կարմրուկ" />
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Sởi" />
+    <owl:sameAs rdf:resource="http://cv.dbpedia.org/resource/Хĕрлĕхен" />
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Mislingar" />
+    <owl:sameAs rdf:resource="http://bjn.dbpedia.org/resource/Karumut" />
+    <owl:sameAs rdf:resource="http://ln.dbpedia.org/resource/Kintúntú" />
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/An_Bhruitíneach" />
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Қызылша" />
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Penyakit_Campak" />
+    <owl:sameAs rdf:resource="http://pms.dbpedia.org/resource/Rossaso" />
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/წითელა" />
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Tigdas" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Elgorri" />
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Measles" />
+    <owl:sameAs rdf:resource="http://ay.dbpedia.org/resource/Piyampiya_usu" />
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/โรคหัด" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q79793" />
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Brech_goch" />
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/حصبة" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/麻疹" />
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Leetrid" />
+    <owl:sameAs rdf:resource="http://ta.dbpedia.org/resource/தட்டம்மை" />
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/חצבת" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Mazelen" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Odra_(choroba)" />
+    <owl:sameAs rdf:resource="http://bo.dbpedia.org/resource/སིབ་བི།" />
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Tuhkarokko" />
+    <owl:sameAs rdf:resource="http://map_bms.dbpedia.org/resource/Gabagen" />
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Morbilo" />
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Morbillus" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+    <owl:sameAs rdf:resource="http://dv.dbpedia.org/resource/ހިމަބިހި" />
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0035920" />
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Kızamık" />
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Морбили" />
+    <owl:sameAs rdf:resource="http://bn.dbpedia.org/resource/হাম" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Campak" />
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Meslinger" />
+    <owl:sameAs rdf:resource="http://krc.dbpedia.org/resource/Кёме" />
+    <owl:sameAs rdf:resource="http://tk.dbpedia.org/resource/Gyzamyk" />
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Morbili" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/홍역" />
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Кір" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Rougeole" />
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/Qızılca_(xəstəlik)" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/痲疹" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Masern" />
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Mässling" />
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Sarrampiu" />
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Мали_сипаници" />
+    <owl:sameAs rdf:resource="http://gn.dbpedia.org/resource/Sarapĩu" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Sarampo" />
+    <owl:sameAs rdf:resource="http://ku.dbpedia.org/resource/Sorik_(nexweşî)" />
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Ošpice" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0g2gb" />
+    <rdfs:label xml:lang="ar">حصبة</rdfs:label>
+    <rdfs:label xml:lang="fr">Rougeole</rdfs:label>
+    <rdfs:label xml:lang="pt">Sarampo</rdfs:label>
+    <rdfs:label xml:lang="en">Measles</rdfs:label>
+    <rdfs:label xml:lang="es">Sarampión</rdfs:label>
+    <rdfs:label xml:lang="zh">痲疹</rdfs:label>
+    <rdfs:label xml:lang="ja">麻疹</rdfs:label>
+    <rdfs:label xml:lang="de">Masern</rdfs:label>
+    <rdfs:label xml:lang="pl">Odra (choroba)</rdfs:label>
+    <rdfs:label xml:lang="nl">Mazelen</rdfs:label>
+    <rdfs:label xml:lang="ru">Корь</rdfs:label>
+    <rdfs:label xml:lang="it">Morbillo</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Virus-related_cutaneous_conditions" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Measles" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Pediatrics" />
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Measles" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/1/hi/health/7385020.stm" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cdc.gov/vaccines/vpd-vac/measles/faqs-dis-vac-risks.htm" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.who.int/vaccine_research/diseases/measles/en/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.viprbrc.org/brc/home.do?decorator=paramyxo" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.skinsight.com/child/rubeolaMeasles.htm" />
+    <dbpprop:caption xml:lang="en">A child showing a classic 4-day measles rash.</dbpprop:caption>
+    <dbpprop:color xml:lang="en">violet</dbpprop:color>
+    <dbpprop:diseasesdb rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7890</dbpprop:diseasesdb>
+    <dbpprop:emedicinesubj xml:lang="en">derm</dbpprop:emedicinesubj>
+    <dbpprop:emedicinetopic rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</dbpprop:emedicinetopic>
+    <dbpprop:familia xml:lang="en">Paramyxoviridae</dbpprop:familia>
+    <dbpprop:genus xml:lang="en">Morbillivirus</dbpprop:genus>
+    <dbpprop:icd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</dbpprop:icd>
+    <dbpprop:icd xml:lang="en">B05</dbpprop:icd>
+    <dbpprop:imageCaption xml:lang="en">Measles virus electron micrograph</dbpprop:imageCaption>
+    <dbpprop:imageWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</dbpprop:imageWidth>
+    <dbpprop:medlineplus rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1569</dbpprop:medlineplus>
+    <dbpprop:meshid xml:lang="en">D008457</dbpprop:meshid>
+    <dbpprop:name xml:lang="en">Measles</dbpprop:name>
+    <dbpprop:ordo xml:lang="en">Mononegavirales</dbpprop:ordo>
+    <dbpprop:species xml:lang="en">Measles virus</dbpprop:species>
+    <dbpprop:subfamilia xml:lang="en">Paramyxovirinae</dbpprop:subfamilia>
+    <dbpprop:virusGroup xml:lang="en">v</dbpprop:virusGroup>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/RougeoleDP.jpg" />
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/RougeoleDP.jpg?width=300" />
+    <dbpedia-owl:abstract xml:lang="nl">Mazelen (morbilli) is een kinderziekte die veroorzaakt wordt door het mazelenvirus. Het mazelenvirus behoort tot de virusfamilie paramyxoviridae, genus morbilli. Het is een enkelstrengs RNA-virus. Er is een goedkoop en veilig vaccin tegen mazelen beschikbaar, dat in België en Nederland aan alle kinderen wordt aangeboden. Vooral in ontwikkelingslanden sterven echter jaarlijks nog honderdduizenden kinderen aan mazelen.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Корь (лат. Morbilli) — острое инфекционное вирусное заболевание с высоким уровнем восприимчивости (индекс контагиозности приближается к 100 %), которое характеризуется высокой температурой (до 40,5 °C), воспалением слизистых оболочек полости рта и верхних дыхательных путей, конъюнктивитом и характерной пятнисто-папулезной сыпью кожных покровов, общей интоксикацией.Корь остаётся одной из основных причин смерти среди детей раннего возраста во всём мире. По оценкам, в 2011 году от кори умерло 158 тысяч человек, большинство из которых дети в возрасте до пяти лет.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">El sarampión es una enfermedad infecciosa exantemática como la rubéola y la varicela, bastante frecuente, especialmente en niños causada por un virus, específicamente un paramixovirus del género Morbillivirus. Se caracteriza por típicas manchas en la piel de color rojo (excemas) (exantema) así como fiebre y un estado general debilitado. También puede, en algunos casos de complicaciones, causar inflamación en los pulmones y el cerebro que amenazan la vida del paciente.El período de incubación del sarampión usualmente dura de 4–12 días, durante los cuales no hay síntomas. Las personas infectadas permanecen contagiosas desde la aparición de los primeros síntomas hasta los 3–5 días después de la aparición del sarpullido.El diagnóstico se hace por el cuadro clínico y la detección de anticuerpos en la sangre. No existe terapia específica para el tratamiento de la enfermedad, sin embargo, se puede prevenir la enfermedad mediante la vacunación. La vacuna triplevírica SPR ha reducido el número de infecciones en el pasado. En la mayoría de los países, la enfermedad es de declaración obligatoria a las autoridades de salud social.En 1998, la Asamblea Mundial de la Salud estableció el objetivo de la eliminación del sarampión indígena de la Región Europea en 2007, para poder certificar su eliminación antes de 2010.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">Die Masern (lat. Morbilli, Diminutiv von Morbus – Krankheit) sind eine durch das Masernvirus hervorgerufene, hoch ansteckende Infektionskrankheit, die vor allem Kinder betrifft. Neben den typischen roten Hautflecken (Masern-Exanthem) ruft die Erkrankung Fieber und einen erheblich geschwächten Allgemeinzustand hervor. Es können außerdem in manchen Fällen lebensbedrohliche Komplikationen wie Lungen- und Hirnentzündungen auftreten.Die Diagnose erfolgt durch das klinische Bild und einen Antikörpernachweis im Blut. Eine spezifische Therapie existiert nicht, der Erkrankung und somit auch den Komplikationen kann jedoch durch Impfung ab dem zwölften Lebensmonat vorgebeugt werden. Dadurch konnte die Zahl der Erkrankungen in der Vergangenheit stark reduziert werden. In den meisten Ländern ist die Erkrankung meldepflichtig.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pl">Odra (łac. morbili, ang. measles, rubeola) – wysoce zaraźliwa choroba zakaźna wiekudziecięcego wywoływana przez należący do rodziny paramyksowirusów wirus odry. Zidentyfikowano 21 szczepów wirusa.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Sarampo é o nome de uma doença viral e uma infecção do sistema respiratório, causada por um paramixovírus do gênero Morbillivirus. É altamente contagiosa e afeta principalmente crianças. É transmitida através de gotículas expelidas pelo nariz, boca ou garganta de pessoas infectadas. Os sintomas iniciais, que geralmente aparecem 8-12 dias após a infecção, incluem febre alta, coriza, olhos vermelhos, e pequenas manchas brancas na parte interna da boca. Vários dias depois, uma erupção se desenvolve, geralmente começando no pescoço e na face e gradualmente se espalhando pelo corpo.A maioria das pessoas se recuperam mesmo sem tratamento dentro de 2-3 semanas. Contudo, principalmente as crianças desnutridas e pessoas com imunidade reduzida, o sarampo pode causar complicações sérias, incluindo dor de cabeça, cegueira, diarreia grave, infecção do ouvido e pneumonia. O sarampo pode ser prevenido através da vacinação. O sarampo, embora seja uma doença viral, pode apresentar diversas complicações bacterianas, além dos riscos de uma mãe passar para o filho durante a gestação, fazendo assim que o feto se desenvolva já com problemas no crescimento e ainda depois no nascimento.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ar">الحصبة (أو بوحمرون) هو مرض فيروس انتقالي حاد ومعدي يصيب الأطفال، ويسبب لهم بعض المضاعفات التي تكون خطيرة في بعض الأحيان.ويعتبر مرض الحصبة من أكثر الأمراض انتشارا في سن الطفولة بصفه خاصة، ولكنه قد يصيب الكبار أيضاً. وفي عام 1963م ومن خلال طفرة كبرى توصل فريق من علماء الفيروسات وعلى رأسهم الباحث الأمريكي/ جون فرانكلين اندروز إلى إنتاج لقاح مضاد للحصبة، ومع بداية التسعينيات أدى هذا اللقاح إلى نُدرة مرض الحصبة في بعض الدول.ومن أعراضه ارتفاع في درجة الحرارة مصحوب برشح وسعال ورمد، يتبعه ذلك طفح على جميع أجزاء الجسم. أول من عرف هذا المرض وميزه عن مرض الجدري الطبيب والفيلسوف أبو بكر الرازي وذلك في بغداد سنة 900 ميلادية. مدة الحضانة تتراوح بين سبعة يوم وأربعة وعشرين يوما. يبدأ ظهور الطفح في اليوم الرابع من ارتفاع درجة الحرارة، وبعد أربعة أيام أخرى تأخذ الحرارة بالهبوط ويتبع ذلك تكوين قشرة شبيهة بالنخالة.مصدر عدوى الحصبة ومخزنها هو الإنسان، تنتقل الحصبة بواسطة الرذاذ والاتصال المباشر وغير المباشر عن طريق الأشياء الملوثة. وبعد الشفاء من الحصبة يكتسب الشخص مناعة مدى الحياة.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">麻疹（ましん、英: measles, rubeola、痲疹とも）とは、ウイルス感染症の一種で、麻疹ウイルスによる急性熱性発疹性疾患。日本では「麻しん」として感染症法に基づく五類感染症に指定して届出の対象としている（「疹」の字が常用漢字でないため「麻しん」として定められている）。和語でははしか（漢字表記は同じく「麻疹」の字を当てる）と呼び、一般にはこちらの方が知られている。伝染力が非常に強く、世界保健機関WHOの推計によれば、2004年の全世界の患者数は約50万人で、東南アジア、中近東、アフリカで多く発生している。流行株の変異によって、ワクチンで獲得した抗体での抑制効果が低くなることが懸念されている。また、ワクチンによる獲得免疫の有効期間は約10年とされるが、ブースター効果による追加免疫が得られず、抗体価の低下(減衰)により再感染することもある。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">REDIRECT T:Medical small痲疹（英语：Measles 或 Rubeola），是兒童常見的急性病毒傳染病。第一個解釋這個疾病，並將它與天花作出區隔的科學家是一名波斯醫生穆罕默德·伊本·扎卡里亞·拉齊（波斯語：محمد زکریای رازی‎，拉丁轉寫：Muhammad ibn Zakariya al-Razi，860年-932年）。1954年，引起麻疹的痲疹病毒（Measles virus）首次被分離出來，麻疹疫苗於1963年起正式使用。 世界卫生组织（WHO）估计，全球每年仍有麻疹病例约4000万，其中100万儿童死于麻疹及其并发症,在疫苗可预防的病毒性疾病中死亡例数最多。痲疹病毒屬於副黏液病毒科（Paramyxouirus morbili），型態為球狀，直徑140～250nm，單股RNA，無分節，外層有包膜，上有凝集素(HA)和溶血素(HL)，共六種結構蛋白，僅一種血清型。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">La rougeole (également appelée 1re maladie) est une infection virale éruptive aiguë. Elle atteint essentiellement les enfants à partir de l’âge de 5-6 mois. Le nom de provient du fait qu&#39;à l&#39;époque où l&#39;on a voulu établir une liste des maladies provoquant un exanthème infantile, elle a été la première à être énumérée. La vaccination contre la rougeole, recommandée pour les enfants autour d&#39;un an, vise surtout à éviter les complications de l&#39;infection, comme les encéphalites, qui peuvent avoir des séquelles importantes voire létales.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Measles, also known as morbilli, English measles, or rubeola (and not to be confused with rubella or roseola) is an infection of the respiratory system, immune system and skin caused by a virus, specifically a paramyxovirus of the genus Morbillivirus. Symptoms usually develop 7–14 days (average 10-12) after exposure to an infected person and the initial symptoms usually include a high fever (often &gt; 40 °C [104 °F]), Koplik&#39;s spots (spots in the mouth, these usually appear 1–2 days prior to the rash and last 3–5 days), malaise, loss of appetite, hacking cough (although this may be the last symptom to appear), runny nose and red eyes. After this comes a spot-like rash that covers much of the body. The course of measles, provided there are no complications, such as bacterial infections, usually lasts about 7–10 days.Measles is spread through respiration (contact with fluids from an infected person&#39;s nose and mouth, either directly or through aerosol transmission), and is highly contagious—90% of people without immunity sharing living space with an infected person will catch it. An asymptomatic incubation period occurs nine to twelve days from initial exposure. The period of infectivity has not been definitively established, some saying it lasts from two to four days prior, until two to five days following the onset of the rash (i.e., four to nine days infectivity in total), whereas others say it lasts from two to four days prior until the complete disappearance of the rash. The rash usually appears between 2–3 days after the onset of illness.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">Il morbillo (dal latino morbus, malattia) è una malattia infettiva del sistema respiratorio, immunitario e della pelle causata da un virus, il Paramyxovirus del genere Morbillivirus.E&#39; una delle malattie esantematiche più diffuse, che può avere complicanze gravi; la malattia è estremamente contagiosa (oltre il 90% delle persone non immunizzate che condividono spazi con una persona malata verranno contagiate a loro volta), con una trasmissione per via aerea.Fino al 1980, quando si è diffusa la vaccinazione contro il morbillo, si calcola che la malattia abbia ucciso una media di 2 milioni e mezzo di bambini ogni anno.L&#39;Organizzazione Mondiale della Sanità calcola che il morbillo abbia ucciso nel solo 2012 circa 122.000 persone al mondo, prevalentemente bambini sotto i 5 anni, rispetto alle circa 630.000 morti del 1990.La crescente diffusione della vaccinazione nel mondo ha permesso in pochissimi anni la riduzione della mortalità infantile legata al morbillo del 78%.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Measles (হাম)</foaf:name>
+    <dbpedia-owl:diseasesdb>7890</dbpedia-owl:diseasesdb>
+    <dbpedia-owl:emedicineSubject xml:lang="en">derm</dbpedia-owl:emedicineSubject>
+    <dbpedia-owl:emedicineTopic xml:lang="en">259</dbpedia-owl:emedicineTopic>
+    <dbpedia-owl:icd10>B05</dbpedia-owl:icd10>
+    <dbpedia-owl:icd9>055</dbpedia-owl:icd9>
+    <dbpedia-owl:medlineplus>001569</dbpedia-owl:medlineplus>
+    <dbpedia-owl:meshId>D008457</dbpedia-owl:meshId>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-disease-noun-1" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Measles?oldid=605311133" />
+    <rdfs:comment xml:lang="es">El sarampión es una enfermedad infecciosa exantemática como la rubéola y la varicela, bastante frecuente, especialmente en niños causada por un virus, específicamente un paramixovirus del género Morbillivirus. Se caracteriza por típicas manchas en la piel de color rojo (excemas) (exantema) así como fiebre y un estado general debilitado.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">麻疹（ましん、英: measles, rubeola、痲疹とも）とは、ウイルス感染症の一種で、麻疹ウイルスによる急性熱性発疹性疾患。日本では「麻しん」として感染症法に基づく五類感染症に指定して届出の対象としている（「疹」の字が常用漢字でないため「麻しん」として定められている）。和語でははしか（漢字表記は同じく「麻疹」の字を当てる）と呼び、一般にはこちらの方が知られている。伝染力が非常に強く、世界保健機関WHOの推計によれば、2004年の全世界の患者数は約50万人で、東南アジア、中近東、アフリカで多く発生している。流行株の変異によって、ワクチンで獲得した抗体での抑制効果が低くなることが懸念されている。また、ワクチンによる獲得免疫の有効期間は約10年とされるが、ブースター効果による追加免疫が得られず、抗体価の低下(減衰)により再感染することもある。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Measles, also known as morbilli, English measles, or rubeola (and not to be confused with rubella or roseola) is an infection of the respiratory system, immune system and skin caused by a virus, specifically a paramyxovirus of the genus Morbillivirus.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Mazelen (morbilli) is een kinderziekte die veroorzaakt wordt door het mazelenvirus. Het mazelenvirus behoort tot de virusfamilie paramyxoviridae, genus morbilli. Het is een enkelstrengs RNA-virus. Er is een goedkoop en veilig vaccin tegen mazelen beschikbaar, dat in België en Nederland aan alle kinderen wordt aangeboden. Vooral in ontwikkelingslanden sterven echter jaarlijks nog honderdduizenden kinderen aan mazelen.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الحصبة (أو بوحمرون) هو مرض فيروس انتقالي حاد ومعدي يصيب الأطفال، ويسبب لهم بعض المضاعفات التي تكون خطيرة في بعض الأحيان.ويعتبر مرض الحصبة من أكثر الأمراض انتشارا في سن الطفولة بصفه خاصة، ولكنه قد يصيب الكبار أيضاً.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Odra (łac. morbili, ang. measles, rubeola) – wysoce zaraźliwa choroba zakaźna wiekudziecięcego wywoływana przez należący do rodziny paramyksowirusów wirus odry. Zidentyfikowano 21 szczepów wirusa.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La rougeole (également appelée 1re maladie) est une infection virale éruptive aiguë. Elle atteint essentiellement les enfants à partir de l’âge de 5-6 mois. Le nom de provient du fait qu&#39;à l&#39;époque où l&#39;on a voulu établir une liste des maladies provoquant un exanthème infantile, elle a été la première à être énumérée.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Sarampo é o nome de uma doença viral e uma infecção do sistema respiratório, causada por um paramixovírus do gênero Morbillivirus. É altamente contagiosa e afeta principalmente crianças. É transmitida através de gotículas expelidas pelo nariz, boca ou garganta de pessoas infectadas. Os sintomas iniciais, que geralmente aparecem 8-12 dias após a infecção, incluem febre alta, coriza, olhos vermelhos, e pequenas manchas brancas na parte interna da boca.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il morbillo (dal latino morbus, malattia) è una malattia infettiva del sistema respiratorio, immunitario e della pelle causata da un virus, il Paramyxovirus del genere Morbillivirus.E&#39; una delle malattie esantematiche più diffuse, che può avere complicanze gravi; la malattia è estremamente contagiosa (oltre il 90% delle persone non immunizzate che condividono spazi con una persona malata verranno contagiate a loro volta), con una trasmissione per via aerea.Fino al 1980, quando si è diffusa la vaccinazione contro il morbillo, si calcola che la malattia abbia ucciso una media di 2 milioni e mezzo di bambini ogni anno.L&#39;Organizzazione Mondiale della Sanità calcola che il morbillo abbia ucciso nel solo 2012 circa 122.000 persone al mondo, prevalentemente bambini sotto i 5 anni, rispetto alle circa 630.000 morti del 1990.La crescente diffusione della vaccinazione nel mondo ha permesso in pochissimi anni la riduzione della mortalità infantile legata al morbillo del 78%.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">REDIRECT T:Medical small痲疹（英语：Measles 或 Rubeola），是兒童常見的急性病毒傳染病。第一個解釋這個疾病，並將它與天花作出區隔的科學家是一名波斯醫生穆罕默德·伊本·扎卡里亞·拉齊（波斯語：محمد زکریای رازی‎，拉丁轉寫：Muhammad ibn Zakariya al-Razi，860年-932年）。1954年，引起麻疹的痲疹病毒（Measles virus）首次被分離出來，麻疹疫苗於1963年起正式使用。 世界卫生组织（WHO）估计，全球每年仍有麻疹病例约4000万，其中100万儿童死于麻疹及其并发症,在疫苗可预防的病毒性疾病中死亡例数最多。痲疹病毒屬於副黏液病毒科（Paramyxouirus morbili），型態為球狀，直徑140～250nm，單股RNA，無分節，外層有包膜，上有凝集素(HA)和溶血素(HL)，共六種結構蛋白，僅一種血清型。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Masern (lat. Morbilli, Diminutiv von Morbus – Krankheit) sind eine durch das Masernvirus hervorgerufene, hoch ansteckende Infektionskrankheit, die vor allem Kinder betrifft. Neben den typischen roten Hautflecken (Masern-Exanthem) ruft die Erkrankung Fieber und einen erheblich geschwächten Allgemeinzustand hervor.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Корь (лат. Morbilli) — острое инфекционное вирусное заболевание с высоким уровнем восприимчивости (индекс контагиозности приближается к 100 %), которое характеризуется высокой температурой (до 40,5 °C), воспалением слизистых оболочек полости рта и верхних дыхательных путей, конъюнктивитом и характерной пятнисто-папулезной сыпью кожных покровов, общей интоксикацией.Корь остаётся одной из основных причин смерти среди детей раннего возраста во всём мире.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58911</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">605311133</dbpedia-owl:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morbilli">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eagle_of_Delight">
+    <dbpprop:deathCause rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_Swansea_measles_epidemic">
+    <dbpprop:data rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Games_(House)">
+    <dbpprop:finalDiagnosis rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_disease">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giant_cell_pneumonia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Measels">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Measle">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morbille">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rubeola">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Rougeole">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Masern">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q79793">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Spalničky">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://el.dbpedia.org/resource/Ιλαρά">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Sarampión">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Elgorri">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Campak">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Morbillo">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/麻疹">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ko.dbpedia.org/resource/홍역">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Mazelen">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Odra_(choroba)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Sarampo">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Measles">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://af.dbpedia.org/resource/Masels">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ar.dbpedia.org/resource/حصبة">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ay.dbpedia.org/resource/Piyampiya_usu">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://az.dbpedia.org/resource/Qızılca_(xəstəlik)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be_x_old.dbpedia.org/resource/Адзёр">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bjn.dbpedia.org/resource/Karumut">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bn.dbpedia.org/resource/হাম">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bo.dbpedia.org/resource/སིབ་བི།">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ca.dbpedia.org/resource/Xarampió">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cv.dbpedia.org/resource/Хĕрлĕхен">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cy.dbpedia.org/resource/Brech_goch">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/Mæslinger">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dv.dbpedia.org/resource/ހިމަބިހި">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Morbilo">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://et.dbpedia.org/resource/Leetrid">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fa.dbpedia.org/resource/سرخک">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fi.dbpedia.org/resource/Tuhkarokko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ga.dbpedia.org/resource/An_Bhruitíneach">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gn.dbpedia.org/resource/Sarapĩu">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/חצבת">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hi.dbpedia.org/resource/खसरा">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/Kanyaró">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hy.dbpedia.org/resource/Կարմրուկ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://is.dbpedia.org/resource/Mislingar">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ka.dbpedia.org/resource/წითელა">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kk.dbpedia.org/resource/Қызылша">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://krc.dbpedia.org/resource/Кёме">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ku.dbpedia.org/resource/Sorik_(nexweşî)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ky.dbpedia.org/resource/Кызылча_(оору)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://la.dbpedia.org/resource/Morbillus">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lb.dbpedia.org/resource/Riedelen">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ln.dbpedia.org/resource/Kintúntú">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lv.dbpedia.org/resource/Masalas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://map_bms.dbpedia.org/resource/Gabagen">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mk.dbpedia.org/resource/Мали_сипаници">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ml.dbpedia.org/resource/അഞ്ചാംപനി">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ms.dbpedia.org/resource/Penyakit_Campak">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/Meslinger">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oc.dbpedia.org/resource/Sarrampiu">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pms.dbpedia.org/resource/Rossaso">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ro.dbpedia.org/resource/Rujeolă">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Корь">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sh.dbpedia.org/resource/Morbili">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simple.dbpedia.org/resource/Measles">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sk.dbpedia.org/resource/Osýpky">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sl.dbpedia.org/resource/Ošpice">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sr.dbpedia.org/resource/Морбили">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Mässling">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ta.dbpedia.org/resource/தட்டம்மை">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://te.dbpedia.org/resource/తట్టు">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://th.dbpedia.org/resource/โรคหัด">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tk.dbpedia.org/resource/Gyzamyk">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tl.dbpedia.org/resource/Tigdas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Kızamık">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Кір">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vi.dbpedia.org/resource/Sởi">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/痲疹">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Measles" />
+  </rdf:Description>
+</rdf:RDF>

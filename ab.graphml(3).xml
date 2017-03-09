@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+	   http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+	<graph id="Barabàsi-Albert" edgedefault="undirected">
+		<node id="0">
+		</node>
+		<node id="1">
+		</node>
+		<node id="2">
+		</node>
+		<node id="3">
+		</node>
+		<node id="4">
+		</node>
+		<node id="5">
+		</node>
+		<node id="6">
+		</node>
+		<node id="7">
+		</node>
+		<node id="8">
+		</node>
+		<node id="9">
+		</node>
+		<node id="10">
+		</node>
+		<node id="11">
+		</node>
+		<node id="12">
+		</node>
+		<node id="13">
+		</node>
+		<node id="14">
+		</node>
+		<node id="15">
+		</node>
+		<node id="16">
+		</node>
+		<node id="17">
+		</node>
+		<node id="18">
+		</node>
+		<node id="19">
+		</node>
+		<node id="20">
+		</node>
+		<node id="21">
+		</node>
+		<node id="22">
+		</node>
+		<node id="23">
+		</node>
+		<node id="24">
+		</node>
+		<node id="25">
+		</node>
+		<node id="26">
+		</node>
+		<node id="27">
+		</node>
+		<node id="28">
+		</node>
+		<node id="29">
+		</node>
+		<node id="30">
+		</node>
+		<node id="31">
+		</node>
+		<node id="32">
+		</node>
+		<node id="33">
+		</node>
+		<node id="34">
+		</node>
+		<node id="35">
+		</node>
+		<node id="36">
+		</node>
+		<node id="37">
+		</node>
+		<node id="38">
+		</node>
+		<node id="39">
+		</node>
+		<node id="40">
+		</node>
+		<node id="41">
+		</node>
+		<node id="42">
+		</node>
+		<node id="43">
+		</node>
+		<node id="44">
+		</node>
+		<node id="45">
+		</node>
+		<node id="46">
+		</node>
+		<node id="47">
+		</node>
+		<node id="48">
+		</node>
+		<node id="49">
+		</node>
+		<node id="50">
+		</node>
+		<node id="51">
+		</node>
+		<node id="52">
+		</node>
+		<node id="53">
+		</node>
+		<node id="54">
+		</node>
+		<node id="55">
+		</node>
+		<node id="56">
+		</node>
+		<node id="57">
+		</node>
+		<node id="58">
+		</node>
+		<node id="59">
+		</node>
+		<node id="60">
+		</node>
+		<node id="61">
+		</node>
+		<node id="62">
+		</node>
+		<node id="63">
+		</node>
+		<node id="64">
+		</node>
+		<node id="65">
+		</node>
+		<node id="66">
+		</node>
+		<node id="67">
+		</node>
+		<node id="68">
+		</node>
+		<node id="69">
+		</node>
+		<node id="70">
+		</node>
+		<node id="71">
+		</node>
+		<node id="72">
+		</node>
+		<node id="73">
+		</node>
+		<node id="74">
+		</node>
+		<node id="75">
+		</node>
+		<node id="76">
+		</node>
+		<node id="77">
+		</node>
+		<node id="78">
+		</node>
+		<node id="79">
+		</node>
+		<node id="80">
+		</node>
+		<node id="81">
+		</node>
+		<node id="82">
+		</node>
+		<node id="83">
+		</node>
+		<node id="84">
+		</node>
+		<node id="85">
+		</node>
+		<node id="86">
+		</node>
+		<node id="87">
+		</node>
+		<node id="88">
+		</node>
+		<node id="89">
+		</node>
+		<node id="90">
+		</node>
+		<node id="91">
+		</node>
+		<node id="92">
+		</node>
+		<node id="93">
+		</node>
+		<node id="94">
+		</node>
+		<node id="95">
+		</node>
+		<node id="96">
+		</node>
+		<node id="97">
+		</node>
+		<node id="98">
+		</node>
+		<node id="99">
+		</node>
+		<node id="100">
+		</node>
+		<node id="101">
+		</node>
+		<edge id="0_1" source="0" target="1" directed="false">
+		</edge>
+		<edge id="2_0" source="2" target="0" directed="false">
+		</edge>
+		<edge id="2_1" source="2" target="1" directed="false">
+		</edge>
+		<edge id="3_1" source="3" target="1" directed="false">
+		</edge>
+		<edge id="3_2" source="3" target="2" directed="false">
+		</edge>
+		<edge id="4_2" source="4" target="2" directed="false">
+		</edge>
+		<edge id="5_0" source="5" target="0" directed="false">
+		</edge>
+		<edge id="5_1" source="5" target="1" directed="false">
+		</edge>
+		<edge id="5_2" source="5" target="2" directed="false">
+		</edge>
+		<edge id="6_0" source="6" target="0" directed="false">
+		</edge>
+		<edge id="6_1" source="6" target="1" directed="false">
+		</edge>
+		<edge id="6_5" source="6" target="5" directed="false">
+		</edge>
+		<edge id="7_1" source="7" target="1" directed="false">
+		</edge>
+		<edge id="7_5" source="7" target="5" directed="false">
+		</edge>
+		<edge id="8_0" source="8" target="0" directed="false">
+		</edge>
+		<edge id="8_5" source="8" target="5" directed="false">
+		</edge>
+		<edge id="9_5" source="9" target="5" directed="false">
+		</edge>
+		<edge id="10_2" source="10" target="2" directed="false">
+		</edge>
+		<edge id="10_5" source="10" target="5" directed="false">
+		</edge>
+		<edge id="10_8" source="10" target="8" directed="false">
+		</edge>
+		<edge id="11_2" source="11" target="2" directed="false">
+		</edge>
+		<edge id="11_7" source="11" target="7" directed="false">
+		</edge>
+		<edge id="12_5" source="12" target="5" directed="false">
+		</edge>
+		<edge id="13_0" source="13" target="0" directed="false">
+		</edge>
+		<edge id="13_1" source="13" target="1" directed="false">
+		</edge>
+		<edge id="14_4" source="14" target="4" directed="false">
+		</edge>
+		<edge id="15_1" source="15" target="1" directed="false">
+		</edge>
+		<edge id="16_4" source="16" target="4" directed="false">
+		</edge>
+		<edge id="16_7" source="16" target="7" directed="false">
+		</edge>
+		<edge id="16_14" source="16" target="14" directed="false">
+		</edge>
+		<edge id="17_3" source="17" target="3" directed="false">
+		</edge>
+		<edge id="18_2" source="18" target="2" directed="false">
+		</edge>
+		<edge id="18_11" source="18" target="11" directed="false">
+		</edge>
+		<edge id="18_14" source="18" target="14" directed="false">
+		</edge>
+		<edge id="19_9" source="19" target="9" directed="false">
+		</edge>
+		<edge id="19_13" source="19" target="13" directed="false">
+		</edge>
+		<edge id="20_1" source="20" target="1" directed="false">
+		</edge>
+		<edge id="20_10" source="20" target="10" directed="false">
+		</edge>
+		<edge id="21_0" source="21" target="0" directed="false">
+		</edge>
+		<edge id="21_19" source="21" target="19" directed="false">
+		</edge>
+		<edge id="21_14" source="21" target="14" directed="false">
+		</edge>
+		<edge id="22_11" source="22" target="11" directed="false">
+		</edge>
+		<edge id="23_1" source="23" target="1" directed="false">
+		</edge>
+		<edge id="24_20" source="24" target="20" directed="false">
+		</edge>
+		<edge id="24_5" source="24" target="5" directed="false">
+		</edge>
+		<edge id="24_11" source="24" target="11" directed="false">
+		</edge>
+		<edge id="25_4" source="25" target="4" directed="false">
+		</edge>
+		<edge id="25_24" source="25" target="24" directed="false">
+		</edge>
+		<edge id="25_11" source="25" target="11" directed="false">
+		</edge>
+		<edge id="26_2" source="26" target="2" directed="false">
+		</edge>
+		<edge id="26_24" source="26" target="24" directed="false">
+		</edge>
+		<edge id="27_8" source="27" target="8" directed="false">
+		</edge>
+		<edge id="28_10" source="28" target="10" directed="false">
+		</edge>
+		<edge id="28_11" source="28" target="11" directed="false">
+		</edge>
+		<edge id="29_1" source="29" target="1" directed="false">
+		</edge>
+		<edge id="29_3" source="29" target="3" directed="false">
+		</edge>
+		<edge id="29_7" source="29" target="7" directed="false">
+		</edge>
+		<edge id="30_4" source="30" target="4" directed="false">
+		</edge>
+		<edge id="30_7" source="30" target="7" directed="false">
+		</edge>
+		<edge id="30_27" source="30" target="27" directed="false">
+		</edge>
+		<edge id="31_27" source="31" target="27" directed="false">
+		</edge>
+		<edge id="31_28" source="31" target="28" directed="false">
+		</edge>
+		<edge id="31_13" source="31" target="13" directed="false">
+		</edge>
+		<edge id="32_10" source="32" target="10" directed="false">
+		</edge>
+		<edge id="32_31" source="32" target="31" directed="false">
+		</edge>
+		<edge id="33_32" source="33" target="32" directed="false">
+		</edge>
+		<edge id="34_11" source="34" target="11" directed="false">
+		</edge>
+		<edge id="34_29" source="34" target="29" directed="false">
+		</edge>
+		<edge id="35_2" source="35" target="2" directed="false">
+		</edge>
+		<edge id="35_6" source="35" target="6" directed="false">
+		</edge>
+		<edge id="35_11" source="35" target="11" directed="false">
+		</edge>
+		<edge id="36_1" source="36" target="1" directed="false">
+		</edge>
+		<edge id="36_24" source="36" target="24" directed="false">
+		</edge>
+		<edge id="36_13" source="36" target="13" directed="false">
+		</edge>
+		<edge id="37_1" source="37" target="1" directed="false">
+		</edge>
+		<edge id="38_15" source="38" target="15" directed="false">
+		</edge>
+		<edge id="39_32" source="39" target="32" directed="false">
+		</edge>
+		<edge id="39_11" source="39" target="11" directed="false">
+		</edge>
+		<edge id="39_15" source="39" target="15" directed="false">
+		</edge>
+		<edge id="40_25" source="40" target="25" directed="false">
+		</edge>
+		<edge id="40_15" source="40" target="15" directed="false">
+		</edge>
+		<edge id="41_32" source="41" target="32" directed="false">
+		</edge>
+		<edge id="41_0" source="41" target="0" directed="false">
+		</edge>
+		<edge id="42_32" source="42" target="32" directed="false">
+		</edge>
+		<edge id="43_1" source="43" target="1" directed="false">
+		</edge>
+		<edge id="43_20" source="43" target="20" directed="false">
+		</edge>
+		<edge id="43_23" source="43" target="23" directed="false">
+		</edge>
+		<edge id="44_1" source="44" target="1" directed="false">
+		</edge>
+		<edge id="44_7" source="44" target="7" directed="false">
+		</edge>
+		<edge id="44_12" source="44" target="12" directed="false">
+		</edge>
+		<edge id="45_0" source="45" target="0" directed="false">
+		</edge>
+		<edge id="45_34" source="45" target="34" directed="false">
+		</edge>
+		<edge id="45_10" source="45" target="10" directed="false">
+		</edge>
+		<edge id="46_28" source="46" target="28" directed="false">
+		</edge>
+		<edge id="47_25" source="47" target="25" directed="false">
+		</edge>
+		<edge id="47_11" source="47" target="11" directed="false">
+		</edge>
+		<edge id="47_44" source="47" target="44" directed="false">
+		</edge>
+		<edge id="48_1" source="48" target="1" directed="false">
+		</edge>
+		<edge id="48_15" source="48" target="15" directed="false">
+		</edge>
+		<edge id="49_0" source="49" target="0" directed="false">
+		</edge>
+		<edge id="49_44" source="49" target="44" directed="false">
+		</edge>
+		<edge id="50_9" source="50" target="9" directed="false">
+		</edge>
+		<edge id="50_29" source="50" target="29" directed="false">
+		</edge>
+		<edge id="51_35" source="51" target="35" directed="false">
+		</edge>
+		<edge id="52_31" source="52" target="31" directed="false">
+		</edge>
+		<edge id="53_32" source="53" target="32" directed="false">
+		</edge>
+		<edge id="53_2" source="53" target="2" directed="false">
+		</edge>
+		<edge id="53_12" source="53" target="12" directed="false">
+		</edge>
+		<edge id="54_1" source="54" target="1" directed="false">
+		</edge>
+		<edge id="54_24" source="54" target="24" directed="false">
+		</edge>
+		<edge id="55_20" source="55" target="20" directed="false">
+		</edge>
+		<edge id="55_47" source="55" target="47" directed="false">
+		</edge>
+		<edge id="56_49" source="56" target="49" directed="false">
+		</edge>
+		<edge id="56_18" source="56" target="18" directed="false">
+		</edge>
+		<edge id="57_13" source="57" target="13" directed="false">
+		</edge>
+		<edge id="58_24" source="58" target="24" directed="false">
+		</edge>
+		<edge id="59_49" source="59" target="49" directed="false">
+		</edge>
+		<edge id="60_7" source="60" target="7" directed="false">
+		</edge>
+		<edge id="60_24" source="60" target="24" directed="false">
+		</edge>
+		<edge id="60_14" source="60" target="14" directed="false">
+		</edge>
+		<edge id="61_20" source="61" target="20" directed="false">
+		</edge>
+		<edge id="61_53" source="61" target="53" directed="false">
+		</edge>
+		<edge id="61_31" source="61" target="31" directed="false">
+		</edge>
+		<edge id="62_0" source="62" target="0" directed="false">
+		</edge>
+		<edge id="62_51" source="62" target="51" directed="false">
+		</edge>
+		<edge id="63_49" source="63" target="49" directed="false">
+		</edge>
+		<edge id="63_20" source="63" target="20" directed="false">
+		</edge>
+		<edge id="64_0" source="64" target="0" directed="false">
+		</edge>
+		<edge id="64_8" source="64" target="8" directed="false">
+		</edge>
+		<edge id="64_44" source="64" target="44" directed="false">
+		</edge>
+		<edge id="65_7" source="65" target="7" directed="false">
+		</edge>
+		<edge id="66_12" source="66" target="12" directed="false">
+		</edge>
+		<edge id="67_25" source="67" target="25" directed="false">
+		</edge>
+		<edge id="68_50" source="68" target="50" directed="false">
+		</edge>
+		<edge id="68_10" source="68" target="10" directed="false">
+		</edge>
+		<edge id="68_13" source="68" target="13" directed="false">
+		</edge>
+		<edge id="69_1" source="69" target="1" directed="false">
+		</edge>
+		<edge id="69_6" source="69" target="6" directed="false">
+		</edge>
+		<edge id="69_8" source="69" target="8" directed="false">
+		</edge>
+		<edge id="70_3" source="70" target="3" directed="false">
+		</edge>
+		<edge id="70_6" source="70" target="6" directed="false">
+		</edge>
+		<edge id="71_66" source="71" target="66" directed="false">
+		</edge>
+		<edge id="71_10" source="71" target="10" directed="false">
+		</edge>
+		<edge id="72_9" source="72" target="9" directed="false">
+		</edge>
+		<edge id="72_31" source="72" target="31" directed="false">
+		</edge>
+		<edge id="73_1" source="73" target="1" directed="false">
+		</edge>
+		<edge id="73_50" source="73" target="50" directed="false">
+		</edge>
+		<edge id="73_23" source="73" target="23" directed="false">
+		</edge>
+		<edge id="74_25" source="74" target="25" directed="false">
+		</edge>
+		<edge id="75_18" source="75" target="18" directed="false">
+		</edge>
+		<edge id="75_54" source="75" target="54" directed="false">
+		</edge>
+		<edge id="76_5" source="76" target="5" directed="false">
+		</edge>
+		<edge id="77_66" source="77" target="66" directed="false">
+		</edge>
+		<edge id="77_44" source="77" target="44" directed="false">
+		</edge>
+		<edge id="77_31" source="77" target="31" directed="false">
+		</edge>
+		<edge id="78_72" source="78" target="72" directed="false">
+		</edge>
+		<edge id="79_4" source="79" target="4" directed="false">
+		</edge>
+		<edge id="79_38" source="79" target="38" directed="false">
+		</edge>
+		<edge id="79_27" source="79" target="27" directed="false">
+		</edge>
+		<edge id="80_18" source="80" target="18" directed="false">
+		</edge>
+		<edge id="80_10" source="80" target="10" directed="false">
+		</edge>
+		<edge id="81_48" source="81" target="48" directed="false">
+		</edge>
+		<edge id="81_6" source="81" target="6" directed="false">
+		</edge>
+		<edge id="81_76" source="81" target="76" directed="false">
+		</edge>
+		<edge id="82_11" source="82" target="11" directed="false">
+		</edge>
+		<edge id="83_28" source="83" target="28" directed="false">
+		</edge>
+		<edge id="84_37" source="84" target="37" directed="false">
+		</edge>
+		<edge id="84_7" source="84" target="7" directed="false">
+		</edge>
+		<edge id="84_13" source="84" target="13" directed="false">
+		</edge>
+		<edge id="85_19" source="85" target="19" directed="false">
+		</edge>
+		<edge id="85_11" source="85" target="11" directed="false">
+		</edge>
+		<edge id="85_30" source="85" target="30" directed="false">
+		</edge>
+		<edge id="86_7" source="86" target="7" directed="false">
+		</edge>
+		<edge id="87_32" source="87" target="32" directed="false">
+		</edge>
+		<edge id="87_66" source="87" target="66" directed="false">
+		</edge>
+		<edge id="88_7" source="88" target="7" directed="false">
+		</edge>
+		<edge id="88_72" source="88" target="72" directed="false">
+		</edge>
+		<edge id="88_27" source="88" target="27" directed="false">
+		</edge>
+		<edge id="89_18" source="89" target="18" directed="false">
+		</edge>
+		<edge id="89_25" source="89" target="25" directed="false">
+		</edge>
+		<edge id="89_14" source="89" target="14" directed="false">
+		</edge>
+		<edge id="90_74" source="90" target="74" directed="false">
+		</edge>
+		<edge id="91_0" source="91" target="0" directed="false">
+		</edge>
+		<edge id="92_25" source="92" target="25" directed="false">
+		</edge>
+		<edge id="93_2" source="93" target="2" directed="false">
+		</edge>
+		<edge id="93_25" source="93" target="25" directed="false">
+		</edge>
+		<edge id="93_90" source="93" target="90" directed="false">
+		</edge>
+		<edge id="94_1" source="94" target="1" directed="false">
+		</edge>
+		<edge id="94_10" source="94" target="10" directed="false">
+		</edge>
+		<edge id="95_13" source="95" target="13" directed="false">
+		</edge>
+		<edge id="96_1" source="96" target="1" directed="false">
+		</edge>
+		<edge id="96_6" source="96" target="6" directed="false">
+		</edge>
+		<edge id="96_13" source="96" target="13" directed="false">
+		</edge>
+		<edge id="97_84" source="97" target="84" directed="false">
+		</edge>
+		<edge id="98_13" source="98" target="13" directed="false">
+		</edge>
+		<edge id="99_41" source="99" target="41" directed="false">
+		</edge>
+		<edge id="100_10" source="100" target="10" directed="false">
+		</edge>
+		<edge id="101_1" source="101" target="1" directed="false">
+		</edge>
+		<edge id="101_18" source="101" target="18" directed="false">
+		</edge>
+	</graph>
+</graphml>

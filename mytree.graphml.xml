@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+	   http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+	<key id="attr0000" for="node" attr.name="x" attr.type="int"/>
+	<key id="attr0001" for="node" attr.name="y" attr.type="int"/>
+	<graph id="This is a tree!" edgedefault="undirected">
+		<node id="root">
+			<data key="attr0000">0</data>
+			<data key="attr0001">0</data>
+		</node>
+		<node id="S00_00">
+			<data key="attr0000">8.0</data>
+			<data key="attr0001">0.0</data>
+		</node>
+		<node id="S00_01">
+			<data key="attr0000">6.022291236000337</data>
+			<data key="attr0001">0.0</data>
+		</node>
+		<node id="S01_00">
+			<data key="attr0000">6.47213595499958</data>
+			<data key="attr0001">4.702282018339785</data>
+		</node>
+		<node id="S01_01">
+			<data key="attr0000">4.87213595499958</data>
+			<data key="attr0001">3.5398139735312077</data>
+		</node>
+		<node id="S02_00">
+			<data key="attr0000">2.4721359549995796</data>
+			<data key="attr0001">7.608452130361228</data>
+		</node>
+		<node id="S02_01">
+			<data key="attr0000">1.8609903369994114</data>
+			<data key="attr0001">5.727539323025314</data>
+		</node>
+		<node id="S03_00">
+			<data key="attr0000">-2.4721359549995787</data>
+			<data key="attr0001">7.608452130361229</data>
+		</node>
+		<node id="S03_01">
+			<data key="attr0000">-1.8609903369994107</data>
+			<data key="attr0001">5.727539323025315</data>
+		</node>
+		<node id="S04_00">
+			<data key="attr0000">-6.472135954999579</data>
+			<data key="attr0001">4.702282018339786</data>
+		</node>
+		<node id="S04_01">
+			<data key="attr0000">-4.872135954999579</data>
+			<data key="attr0001">3.539813973531208</data>
+		</node>
+		<node id="S05_00">
+			<data key="attr0000">-8.0</data>
+			<data key="attr0001">9.797174393178826E-16</data>
+		</node>
+		<node id="S05_01">
+			<data key="attr0000">-6.022291236000337</data>
+			<data key="attr0001">7.37517968570097E-16</data>
+		</node>
+		<node id="S06_00">
+			<data key="attr0000">-6.47213595499958</data>
+			<data key="attr0001">-4.702282018339784</data>
+		</node>
+		<node id="S06_01">
+			<data key="attr0000">-4.87213595499958</data>
+			<data key="attr0001">-3.5398139735312073</data>
+		</node>
+		<node id="S07_00">
+			<data key="attr0000">-2.4721359549995805</data>
+			<data key="attr0001">-7.608452130361228</data>
+		</node>
+		<node id="S07_01">
+			<data key="attr0000">-1.860990336999412</data>
+			<data key="attr0001">-5.727539323025314</data>
+		</node>
+		<node id="S08_00">
+			<data key="attr0000">2.472135954999578</data>
+			<data key="attr0001">-7.608452130361229</data>
+		</node>
+		<node id="S08_01">
+			<data key="attr0000">1.86099033699941</data>
+			<data key="attr0001">-5.727539323025315</data>
+		</node>
+		<node id="S09_00">
+			<data key="attr0000">6.472135954999579</data>
+			<data key="attr0001">-4.702282018339787</data>
+		</node>
+		<node id="S09_01">
+			<data key="attr0000">4.872135954999579</data>
+			<data key="attr0001">-3.539813973531209</data>
+		</node>
+		<edge id="E0000" source="S00_00" target="S00_01" directed="false">
+		</edge>
+		<edge id="E0001" source="S00_01" target="root" directed="false">
+		</edge>
+		<edge id="E0002" source="S01_00" target="S01_01" directed="false">
+		</edge>
+		<edge id="E0003" source="S01_01" target="S02_00" directed="false">
+		</edge>
+		<edge id="E0004" source="S02_00" target="S03_01" directed="false">
+		</edge>
+		<edge id="E0005" source="S02_01" target="S03)1" directed="false">
+		</edge>
+		<edge id="E0006" source="S03_00" target="S03_01" directed="false">
+		</edge>
+		<edge id="E0007" source="S03_01" target="root" directed="false">
+		</edge>
+		<edge id="E0008" source="S04_00" target="S04_01" directed="false">
+		</edge>
+		<edge id="E0009" source="S04_01" target="root" directed="false">
+		</edge>
+		<edge id="E0010" source="S05_00" target="S05_01" directed="false">
+		</edge>
+		<edge id="E0011" source="S05_01" target="root" directed="false">
+		</edge>
+		<edge id="E0012" source="S06_00" target="S06_01" directed="false">
+		</edge>
+		<edge id="E0013" source="S06_01" target="root" directed="false">
+		</edge>
+		<edge id="E0014" source="S07_00" target="S07_01" directed="false">
+		</edge>
+		<edge id="E0015" source="S07_01" target="root" directed="false">
+		</edge>
+		<edge id="E0016" source="S08_00" target="S08_01" directed="false">
+		</edge>
+		<edge id="E0017" source="S08_01" target="root" directed="false">
+		</edge>
+		<edge id="E0018" source="S09_00" target="S09_01" directed="false">
+		</edge>
+		<edge id="E0019" source="S09_01" target="root" directed="false">
+		</edge>
+	</graph>
+</graphml>

@@ -1,0 +1,227 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Powell, James E. Jr. EgoSystem: Where are our Alumni?</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471title5"/>
+    <relators:author rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person6"/>
+    <relators:aut rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person7"/>
+    <relators:author rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person8"/>
+    <relators:aut rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person9"/>
+    <relators:author rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person10"/>
+    <relators:aut rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person11"/>
+    <relators:author rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person12"/>
+    <relators:aut rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person13"/>
+    <relators:rlm rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person14"/>
+    <relators:metadata_supplier rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person15"/>
+    <bf:contributor rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471organization16"/>
+    <relators:oth rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471organization17"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic19"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic20"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic21"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic22"/>
+    <bf:subject rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic23"/>
+    <bf:partOf rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471work24"/>
+    <bf:derivedFrom rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471.marcxml.xml"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">powelljamesejr215228shankarharihar231956rodriguezmarkovandesompelherbert165868magnonidianna288523powelljamesejr215228srorlresearchlibraryaureliusllcegosystemwhereareouralumniengworktext</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471work24">
+    <bf:title>Journal Code4Lib</bf:title>
+    <bf:authorizedAccessPoint>Journal Code4Lib</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471instance28">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471title31"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:copyrightDate>2014-04-14</bf:copyrightDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:extent>21 p.</bf:extent>
+    <bf:titleStatement>EgoSystem: Where are our Alumni?</bf:titleStatement>
+    <bf:providerStatement>2014-04-14</bf:providerStatement>
+    <bf:note>DOE/LANL</bf:note>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>LA-UR-14-22471</bf:identifierValue>
+        <bf:identifierScheme>systemNumber</bf:identifierScheme>
+      </bf:Identifier>
+    </bf:systemNumber>
+    <bf:reportNumber>
+      <bf:Identifier>
+        <bf:identifierScheme>reportNumber</bf:identifierScheme>
+        <bf:identifierValue>LA-UR-14-22471</bf:identifierValue>
+      </bf:Identifier>
+    </bf:reportNumber>
+    <bf:derivedFrom rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471.marcxml.xml"/>
+    <bf:instanceOf rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471"/>
+  </bf:Instance>
+  <bf:Annotation xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471annotation27">
+    <bf:derivedFrom rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/rassti"/>
+    <bf:generationProcess>DLC transform-tool:2014-10-31-T17:00:00</bf:generationProcess>
+    <bf:changeDate>2014--0-4-T14:T2</bf:changeDate>
+    <bf:annotates rdf:resource="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471"/>
+  </bf:Annotation>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471title5">
+    <bf:titleValue>EgoSystem: Where are our Alumni?</bf:titleValue>
+  </bf:Title>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person6">
+    <bf:label>Powell, James E. Jr.</bf:label>
+    <bf:authorizedAccessPoint>Powell, James E. Jr.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Powell, James E. Jr.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person7">
+    <bf:label>Powell, James E. Jr.</bf:label>
+    <bf:authorizedAccessPoint>Powell, James E. Jr.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Powell, James E. Jr.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person8">
+    <bf:label>Shankar, Harihar</bf:label>
+    <bf:authorizedAccessPoint>Shankar, Harihar</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Shankar, Harihar</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person9">
+    <bf:label>Shankar, Harihar</bf:label>
+    <bf:authorizedAccessPoint>Shankar, Harihar</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Shankar, Harihar</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person10">
+    <bf:label>Rodriguez, Marko</bf:label>
+    <bf:authorizedAccessPoint>Rodriguez, Marko</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Rodriguez, Marko</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person11">
+    <bf:label>Rodriguez, Marko</bf:label>
+    <bf:authorizedAccessPoint>Rodriguez, Marko</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Rodriguez, Marko</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person12">
+    <bf:label xmlns:relators="http://id.loc.gov/vocabulary/relators/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Van De Sompel, Herbert</bf:label>
+    <bf:authorizedAccessPoint xmlns:relators="http://id.loc.gov/vocabulary/relators/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Van De Sompel, Herbert</bf:authorizedAccessPoint>
+    <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/names/nr00019573"/>
+  </bf:Person>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person13">
+    <bf:label xmlns:relators="http://id.loc.gov/vocabulary/relators/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Van De Sompel, Herbert</bf:label>
+    <bf:authorizedAccessPoint xmlns:relators="http://id.loc.gov/vocabulary/relators/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Van De Sompel, Herbert</bf:authorizedAccessPoint>
+    <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/names/nr00019573"/>
+  </bf:Person>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person14">
+    <bf:label>Magnoni, Dianna</bf:label>
+    <bf:authorizedAccessPoint>Magnoni, Dianna</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Magnoni, Dianna</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person15">
+    <bf:label>Powell, James E. Jr.</bf:label>
+    <bf:authorizedAccessPoint>Powell, James E. Jr.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Powell, James E. Jr.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Organization xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471organization16">
+    <bf:label>SRO-RL: RESEARCH LIBRARY</bf:label>
+    <bf:authorizedAccessPoint>SRO-RL: RESEARCH LIBRARY</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>SRO-RL: RESEARCH LIBRARY</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Organization>
+  <bf:Organization xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471organization17">
+    <bf:label>Aurelius LLC</bf:label>
+    <bf:authorizedAccessPoint>Aurelius LLC</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Aurelius LLC</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Organization>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic19">
+    <bf:authorizedAccessPoint xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">Information Science</bf:authorizedAccessPoint>
+    <bf:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">Information Science</bf:label>
+    <bf:authoritySource xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">RASSTI : dusa_designator : /record[1]/dusa_designator[1]</bf:authoritySource>
+    <bf:hasAuthority rdf:resource="http://id.loc.gov/authorities/subjects/sh85066150"/>
+  </bf:Topic>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic20">
+    <bf:authorizedAccessPoint>Mathematics &amp; Computing(97)</bf:authorizedAccessPoint>
+    <bf:label>Mathematics &amp; Computing(97)</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Mathematics &amp; Computing(97)</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://example.org"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>RASSTI : osti_subject : /record[1]/osti_subject[1]</bf:authoritySource>
+  </bf:Topic>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic21">
+    <bf:authorizedAccessPoint>Full Paper</bf:authorizedAccessPoint>
+    <bf:label>Full Paper</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel>Full Paper</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://example.org"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>RASSTI : doc_type : /record[1]/doc_type[1]</bf:authoritySource>
+  </bf:Topic>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic22">
+    <bf:authorizedAccessPoint>Journal</bf:authorizedAccessPoint>
+    <bf:label>Journal</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel>Journal</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://example.org"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>RASSTI : journal : /record[1]/purpose[1]/journal[1]</bf:authoritySource>
+  </bf:Topic>
+  <bf:Topic xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic23">
+    <bf:authorizedAccessPoint>Web</bf:authorizedAccessPoint>
+    <bf:label>Web</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel>Web</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://example.org"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>RASSTI : Web : /record[1]/purpose[1]/Web[1]</bf:authoritySource>
+  </bf:Topic>
+  <bf:Title xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/" rdf:about="http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471title31">
+    <bf:titleValue>EgoSystem: Where are our Alumni?</bf:titleValue>
+  </bf:Title>
+</rdf:RDF>

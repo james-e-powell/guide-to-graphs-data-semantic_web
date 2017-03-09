@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>Graph-based book recommender </title>
+<script src="helios/lib/q.min.js"></script>
+<script src="helios/lib/uuid.js"></script>
+<script src="helios/lib/q-comm.js"></script>
+<script src="helios/helios.js"></script>
+<script src="jquery/jquery-2.1.1.min.js"></script>
+
+<script>
+var graph = new Helios.GraphDatabase();
+
+var json_graph = {
+  "graph": {
+    "mode":"NORMAL",
+    "vertices":[
+      {"name":"Scott","age":36,"_id":1,"_type":"vertex" },
+      {"name":"Bob","age":47,"_id":2,"_type":"vertex"},
+      {"name":"Anne","age":34,"_id":3,"_type":"vertex"},
+      {"name":"Susan","age":45,"_id":4,"_type":"vertex"},
+      {"title":"Solaris","category":"novel","_id":5,"_type":"vertex"},
+      {"title":"Roadside Picnic","category":"novel","_id":6,"_type":"vertex"},
+      {"title":"Annihilation","category":"novel","_id":7,"_type":"vertex"},
+      {"title":"Brief History of Time","category":"nonfiction","_id":8,"_type":"vertex"}
+    ],
+    "edges":[
+      {"_id":9,"_type":"edge","_outV":1,"_inV":7,"_label":"read"},
+      {"_id":10,"_type":"edge","_outV":1,"_inV":8,"_label":"read"},
+      {"_id":11,"_type":"edge","_outV":2,"_inV":6,"_label":"read"},
+      {"_id":12,"_type":"edge","_outV":2,"_inV":7,"_label":"read"},
+      {"_id":13,"_type":"edge","_outV":3,"_inV":5,"_label":"read"},
+      {"_id":14,"_type":"edge","_outV":2,"_inV":7,"_label":"read"},
+      {"_id":15,"_type":"edge","_outV":4,"_inV":5,"_label":"read"},
+      {"_id":16,"_type":"edge","_outV":1,"_inV":2,"_label":"friend"},
+      {"_id":17,"_type":"edge","_outV":1,"_inV":3,"_label":"friend"},
+      {"_id":18,"_type":"edge","_outV":2,"_inV":3,"_label":"friend"}
+    ]
+  }
+}
+
+graph.loadGraphSON(json_graph)
+  .then(function(g) {
+   g.V({name:{$eq:'Scott'}}).out('read').then (
+       function(hasRead) {
+           g.V({name:{$eq:'Scott'}}).out('friend').out('read').except(hasRead).map('title').then (
+              function(results) { 
+                 var readingListMessage = 'Recommended reading for Scott: '; 
+                 for (item in results) {
+                     readingListMessage+='"'+results[item].title + '", ';
+                 }
+                 readingListMessage = readingListMessage.slice(0,-2);
+             
+                 $('#gremlin_results').replaceWith('<div id="gremlin_results">' + readingListMessage + '</div>');
+              });
+       });
+  }, function(error) {
+         console.error(error);
+  });
+
+</script>
+</head>
+<body>
+<h2>Graph Book Recommender</h2>
+<div id="gremlin_results"></div>
+
+</body>
+</html>

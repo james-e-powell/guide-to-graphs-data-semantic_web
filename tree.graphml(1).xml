@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+	   http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+	<key id="attr0000" for="node" attr.name="x" attr.type="int"/>
+	<key id="attr0001" for="node" attr.name="y" attr.type="int"/>
+	<graph id="This is a tree!" edgedefault="undirected">
+		<node id="root">
+			<data key="attr0000">0</data>
+			<data key="attr0001">0</data>
+		</node>
+		<node id="S00_00">
+			<data key="attr0000">8.0</data>
+			<data key="attr0001">0.0</data>
+		</node>
+		<node id="S00_01">
+			<data key="attr0000">6.998819423742522</data>
+			<data key="attr0001">0.0</data>
+		</node>
+		<node id="S00_02">
+			<data key="attr0000">9.001180576257477</data>
+			<data key="attr0001">1.2260925880822227E-16</data>
+		</node>
+		<node id="S01_00">
+			<data key="attr0000">7.608452130361228</data>
+			<data key="attr0001">2.472135954999579</data>
+		</node>
+		<node id="S01_01">
+			<data key="attr0000">6.6562728193234175</data>
+			<data key="attr0001">2.1627541424979158</data>
+		</node>
+		<node id="S01_02">
+			<data key="attr0000">8.560631441399039</data>
+			<data key="attr0001">2.781517767501243</data>
+		</node>
+		<node id="S02_00">
+			<data key="attr0000">6.47213595499958</data>
+			<data key="attr0001">4.702282018339785</data>
+		</node>
+		<node id="S02_01">
+			<data key="attr0000">5.662163854369177</data>
+			<data key="attr0001">4.11380284073396</data>
+		</node>
+		<node id="S02_02">
+			<data key="attr0000">7.2821080556299815</data>
+			<data key="attr0001">5.290761195945611</data>
+		</node>
+		<node id="S03_00">
+			<data key="attr0000">4.702282018339785</data>
+			<data key="attr0001">6.47213595499958</data>
+		</node>
+		<node id="S03_01">
+			<data key="attr0000">4.11380284073396</data>
+			<data key="attr0001">5.662163854369177</data>
+		</node>
+		<node id="S03_02">
+			<data key="attr0000">5.29076119594561</data>
+			<data key="attr0001">7.282108055629982</data>
+		</node>
+		<node id="S04_00">
+			<data key="attr0000">2.4721359549995796</data>
+			<data key="attr0001">7.608452130361228</data>
+		</node>
+		<node id="S04_01">
+			<data key="attr0000">2.162754142497916</data>
+			<data key="attr0001">6.6562728193234175</data>
+		</node>
+		<node id="S04_02">
+			<data key="attr0000">2.781517767501243</data>
+			<data key="attr0001">8.560631441399039</data>
+		</node>
+		<node id="S05_00">
+			<data key="attr0000">4.898587196589413E-16</data>
+			<data key="attr0001">8.0</data>
+		</node>
+		<node id="S05_01">
+			<data key="attr0000">4.2855409025483016E-16</data>
+			<data key="attr0001">6.998819423742522</data>
+		</node>
+		<node id="S05_02">
+			<data key="attr0000">4.2855409025483016E-16</data>
+			<data key="attr0001">9.001180576257477</data>
+		</node>
+		<node id="S06_00">
+			<data key="attr0000">-2.4721359549995787</data>
+			<data key="attr0001">7.608452130361229</data>
+		</node>
+		<node id="S06_01">
+			<data key="attr0000">-2.1627541424979153</data>
+			<data key="attr0001">6.6562728193234175</data>
+		</node>
+		<node id="S06_02">
+			<data key="attr0000">-2.781517767501242</data>
+			<data key="attr0001">8.56063144139904</data>
+		</node>
+		<node id="S07_00">
+			<data key="attr0000">-4.702282018339784</data>
+			<data key="attr0001">6.47213595499958</data>
+		</node>
+		<node id="S07_01">
+			<data key="attr0000">-4.1138028407339595</data>
+			<data key="attr0001">5.662163854369177</data>
+		</node>
+		<node id="S07_02">
+			<data key="attr0000">-5.29076119594561</data>
+			<data key="attr0001">7.282108055629982</data>
+		</node>
+		<node id="S08_00">
+			<data key="attr0000">-6.472135954999579</data>
+			<data key="attr0001">4.702282018339786</data>
+		</node>
+		<node id="S08_01">
+			<data key="attr0000">-5.662163854369176</data>
+			<data key="attr0001">4.11380284073396</data>
+		</node>
+		<node id="S08_02">
+			<data key="attr0000">-7.2821080556299815</data>
+			<data key="attr0001">5.290761195945612</data>
+		</node>
+		<node id="S09_00">
+			<data key="attr0000">-7.608452130361228</data>
+			<data key="attr0001">2.47213595499958</data>
+		</node>
+		<node id="S09_01">
+			<data key="attr0000">-6.6562728193234175</data>
+			<data key="attr0001">2.162754142497916</data>
+		</node>
+		<node id="S09_02">
+			<data key="attr0000">-8.560631441399039</data>
+			<data key="attr0001">2.7815177675012435</data>
+		</node>
+		<node id="S10_00">
+			<data key="attr0000">-8.0</data>
+			<data key="attr0001">9.797174393178826E-16</data>
+		</node>
+		<node id="S10_01">
+			<data key="attr0000">-6.998819423742522</data>
+			<data key="attr0001">8.571081805096603E-16</data>
+		</node>
+		<node id="S10_02">
+			<data key="attr0000">-9.001180576257477</data>
+			<data key="attr0001">9.797174393178826E-16</data>
+		</node>
+		<node id="S11_00">
+			<data key="attr0000">-7.60845213036123</data>
+			<data key="attr0001">-2.472135954999575</data>
+		</node>
+		<node id="S11_01">
+			<data key="attr0000">-6.656272819323418</data>
+			<data key="attr0001">-2.162754142497912</data>
+		</node>
+		<node id="S11_02">
+			<data key="attr0000">-8.56063144139904</data>
+			<data key="attr0001">-2.7815177675012386</data>
+		</node>
+		<node id="S12_00">
+			<data key="attr0000">-6.47213595499958</data>
+			<data key="attr0001">-4.702282018339784</data>
+		</node>
+		<node id="S12_01">
+			<data key="attr0000">-5.662163854369177</data>
+			<data key="attr0001">-4.1138028407339595</data>
+		</node>
+		<node id="S12_02">
+			<data key="attr0000">-7.282108055629982</data>
+			<data key="attr0001">-5.29076119594561</data>
+		</node>
+		<node id="S13_00">
+			<data key="attr0000">-4.702282018339786</data>
+			<data key="attr0001">-6.472135954999579</data>
+		</node>
+		<node id="S13_01">
+			<data key="attr0000">-4.11380284073396</data>
+			<data key="attr0001">-5.662163854369176</data>
+		</node>
+		<node id="S13_02">
+			<data key="attr0000">-5.290761195945612</data>
+			<data key="attr0001">-7.2821080556299815</data>
+		</node>
+		<node id="S14_00">
+			<data key="attr0000">-2.4721359549995805</data>
+			<data key="attr0001">-7.608452130361228</data>
+		</node>
+		<node id="S14_01">
+			<data key="attr0000">-2.1627541424979166</data>
+			<data key="attr0001">-6.6562728193234175</data>
+		</node>
+		<node id="S14_02">
+			<data key="attr0000">-2.781517767501244</data>
+			<data key="attr0001">-8.560631441399039</data>
+		</node>
+		<node id="S15_00">
+			<data key="attr0000">-1.4695761589768238E-15</data>
+			<data key="attr0001">-8.0</data>
+		</node>
+		<node id="S15_01">
+			<data key="attr0000">-1.2856622707644903E-15</data>
+			<data key="attr0001">-6.998819423742522</data>
+		</node>
+		<node id="S15_02">
+			<data key="attr0000">-1.530880788380935E-15</data>
+			<data key="attr0001">-9.001180576257477</data>
+		</node>
+		<node id="S16_00">
+			<data key="attr0000">2.472135954999578</data>
+			<data key="attr0001">-7.608452130361229</data>
+		</node>
+		<node id="S16_01">
+			<data key="attr0000">2.1627541424979144</data>
+			<data key="attr0001">-6.6562728193234175</data>
+		</node>
+		<node id="S16_02">
+			<data key="attr0000">2.7815177675012412</data>
+			<data key="attr0001">-8.56063144139904</data>
+		</node>
+		<node id="S17_00">
+			<data key="attr0000">4.702282018339783</data>
+			<data key="attr0001">-6.4721359549995805</data>
+		</node>
+		<node id="S17_01">
+			<data key="attr0000">4.113802840733959</data>
+			<data key="attr0001">-5.662163854369178</data>
+		</node>
+		<node id="S17_02">
+			<data key="attr0000">5.290761195945608</data>
+			<data key="attr0001">-7.282108055629983</data>
+		</node>
+		<node id="S18_00">
+			<data key="attr0000">6.472135954999579</data>
+			<data key="attr0001">-4.702282018339787</data>
+		</node>
+		<node id="S18_01">
+			<data key="attr0000">5.662163854369176</data>
+			<data key="attr0001">-4.113802840733961</data>
+		</node>
+		<node id="S18_02">
+			<data key="attr0000">7.2821080556299815</data>
+			<data key="attr0001">-5.2907611959456124</data>
+		</node>
+		<node id="S19_00">
+			<data key="attr0000">7.608452130361228</data>
+			<data key="attr0001">-2.472135954999581</data>
+		</node>
+		<node id="S19_01">
+			<data key="attr0000">6.6562728193234175</data>
+			<data key="attr0001">-2.162754142497917</data>
+		</node>
+		<node id="S19_02">
+			<data key="attr0000">8.560631441399039</data>
+			<data key="attr0001">-2.781517767501245</data>
+		</node>
+		<edge id="E0000" source="S00_00" target="S00_01" directed="false">
+		</edge>
+		<edge id="E0001" source="S00_00" target="S00_02" directed="false">
+		</edge>
+		<edge id="E0002" source="S00_01" target="root" directed="false">
+		</edge>
+		<edge id="E0003" source="S01_00" target="S01_01" directed="false">
+		</edge>
+		<edge id="E0004" source="S01_00" target="S01_02" directed="false">
+		</edge>
+		<edge id="E0005" source="S01_01" target="root" directed="false">
+		</edge>
+		<edge id="E0006" source="S02_00" target="S02_01" directed="false">
+		</edge>
+		<edge id="E0007" source="S02_00" target="S02_02" directed="false">
+		</edge>
+		<edge id="E0008" source="S02_01" target="root" directed="false">
+		</edge>
+		<edge id="E0009" source="S03_00" target="S03_01" directed="false">
+		</edge>
+		<edge id="E0010" source="S03_00" target="S03_02" directed="false">
+		</edge>
+		<edge id="E0011" source="S03_01" target="root" directed="false">
+		</edge>
+		<edge id="E0012" source="S04_00" target="S04_01" directed="false">
+		</edge>
+		<edge id="E0013" source="S04_00" target="S04_02" directed="false">
+		</edge>
+		<edge id="E0014" source="S04_01" target="root" directed="false">
+		</edge>
+		<edge id="E0015" source="S05_00" target="S05_01" directed="false">
+		</edge>
+		<edge id="E0016" source="S05_00" target="S05_02" directed="false">
+		</edge>
+		<edge id="E0017" source="S05_01" target="root" directed="false">
+		</edge>
+		<edge id="E0018" source="S06_00" target="S06_01" directed="false">
+		</edge>
+		<edge id="E0019" source="S06_00" target="S06_02" directed="false">
+		</edge>
+		<edge id="E0020" source="S06_01" target="root" directed="false">
+		</edge>
+		<edge id="E0021" source="S07_00" target="S07_01" directed="false">
+		</edge>
+		<edge id="E0022" source="S07_00" target="S07_02" directed="false">
+		</edge>
+		<edge id="E0023" source="S07_01" target="root" directed="false">
+		</edge>
+		<edge id="E0024" source="S08_00" target="S08_01" directed="false">
+		</edge>
+		<edge id="E0025" source="S08_00" target="S08_02" directed="false">
+		</edge>
+		<edge id="E0026" source="S08_01" target="root" directed="false">
+		</edge>
+		<edge id="E0027" source="S09_00" target="S09_01" directed="false">
+		</edge>
+		<edge id="E0028" source="S09_00" target="S09_02" directed="false">
+		</edge>
+		<edge id="E0029" source="S09_01" target="root" directed="false">
+		</edge>
+		<edge id="E0030" source="S10_00" target="S10_01" directed="false">
+		</edge>
+		<edge id="E0031" source="S10_00" target="S10_02" directed="false">
+		</edge>
+		<edge id="E0032" source="S10_01" target="root" directed="false">
+		</edge>
+		<edge id="E0033" source="S11_00" target="S11_01" directed="false">
+		</edge>
+		<edge id="E0034" source="S11_00" target="S11_02" directed="false">
+		</edge>
+		<edge id="E0035" source="S11_01" target="root" directed="false">
+		</edge>
+		<edge id="E0036" source="S12_00" target="S12_01" directed="false">
+		</edge>
+		<edge id="E0037" source="S12_00" target="S12_02" directed="false">
+		</edge>
+		<edge id="E0038" source="S12_01" target="root" directed="false">
+		</edge>
+		<edge id="E0039" source="S13_00" target="S13_01" directed="false">
+		</edge>
+		<edge id="E0040" source="S13_00" target="S13_02" directed="false">
+		</edge>
+		<edge id="E0041" source="S13_01" target="root" directed="false">
+		</edge>
+		<edge id="E0042" source="S14_00" target="S14_01" directed="false">
+		</edge>
+		<edge id="E0043" source="S14_00" target="S14_02" directed="false">
+		</edge>
+		<edge id="E0044" source="S14_01" target="root" directed="false">
+		</edge>
+		<edge id="E0045" source="S15_00" target="S15_01" directed="false">
+		</edge>
+		<edge id="E0046" source="S15_00" target="S15_02" directed="false">
+		</edge>
+		<edge id="E0047" source="S15_01" target="root" directed="false">
+		</edge>
+		<edge id="E0048" source="S16_00" target="S16_01" directed="false">
+		</edge>
+		<edge id="E0049" source="S16_00" target="S16_02" directed="false">
+		</edge>
+		<edge id="E0050" source="S16_01" target="root" directed="false">
+		</edge>
+		<edge id="E0051" source="S17_00" target="S17_01" directed="false">
+		</edge>
+		<edge id="E0052" source="S17_00" target="S17_02" directed="false">
+		</edge>
+		<edge id="E0053" source="S17_01" target="root" directed="false">
+		</edge>
+		<edge id="E0054" source="S18_00" target="S18_01" directed="false">
+		</edge>
+		<edge id="E0055" source="S18_00" target="S18_02" directed="false">
+		</edge>
+		<edge id="E0056" source="S18_01" target="root" directed="false">
+		</edge>
+		<edge id="E0057" source="S19_00" target="S19_01" directed="false">
+		</edge>
+		<edge id="E0058" source="S19_00" target="S19_02" directed="false">
+		</edge>
+		<edge id="E0059" source="S19_01" target="root" directed="false">
+		</edge>
+	</graph>
+</graphml>

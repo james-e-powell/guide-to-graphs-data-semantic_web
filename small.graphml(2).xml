@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+	   http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+	<key id="attr0000" for="node" attr.name="xy" attr.type="string"/>
+	<graph id="This is a small world!" edgedefault="undirected">
+		<node id="0">
+			<data key="attr0000">[Ljava.lang.Double;@59690aa4</data>
+		</node>
+		<node id="1">
+			<data key="attr0000">[Ljava.lang.Double;@6842775d</data>
+		</node>
+		<node id="2">
+			<data key="attr0000">[Ljava.lang.Double;@574caa3f</data>
+		</node>
+		<node id="3">
+			<data key="attr0000">[Ljava.lang.Double;@64cee07</data>
+		</node>
+		<node id="4">
+			<data key="attr0000">[Ljava.lang.Double;@1761e840</data>
+		</node>
+		<node id="5">
+			<data key="attr0000">[Ljava.lang.Double;@6c629d6e</data>
+		</node>
+		<node id="6">
+			<data key="attr0000">[Ljava.lang.Double;@5ecddf8f</data>
+		</node>
+		<node id="7">
+			<data key="attr0000">[Ljava.lang.Double;@3f102e87</data>
+		</node>
+		<node id="8">
+			<data key="attr0000">[Ljava.lang.Double;@27abe2cd</data>
+		</node>
+		<node id="9">
+			<data key="attr0000">[Ljava.lang.Double;@5f5a92bb</data>
+		</node>
+		<node id="10">
+			<data key="attr0000">[Ljava.lang.Double;@6fdb1f78</data>
+		</node>
+		<node id="11">
+			<data key="attr0000">[Ljava.lang.Double;@51016012</data>
+		</node>
+		<node id="12">
+			<data key="attr0000">[Ljava.lang.Double;@29444d75</data>
+		</node>
+		<node id="13">
+			<data key="attr0000">[Ljava.lang.Double;@2280cdac</data>
+		</node>
+		<node id="14">
+			<data key="attr0000">[Ljava.lang.Double;@1517365b</data>
+		</node>
+		<node id="15">
+			<data key="attr0000">[Ljava.lang.Double;@4fccd51b</data>
+		</node>
+		<node id="16">
+			<data key="attr0000">[Ljava.lang.Double;@44e81672</data>
+		</node>
+		<node id="17">
+			<data key="attr0000">[Ljava.lang.Double;@60215eee</data>
+		</node>
+		<node id="18">
+			<data key="attr0000">[Ljava.lang.Double;@4ca8195f</data>
+		</node>
+		<node id="19">
+			<data key="attr0000">[Ljava.lang.Double;@65e579dc</data>
+		</node>
+		<edge id="0_1" source="0" target="1" directed="false">
+		</edge>
+		<edge id="4_18" source="18" target="4" directed="false">
+		</edge>
+		<edge id="2_3" source="2" target="3" directed="false">
+		</edge>
+		<edge id="3_4" source="3" target="4" directed="false">
+		</edge>
+		<edge id="4_5" source="4" target="5" directed="false">
+		</edge>
+		<edge id="5_6" source="5" target="6" directed="false">
+		</edge>
+		<edge id="6_7" source="6" target="7" directed="false">
+		</edge>
+		<edge id="7_8" source="7" target="8" directed="false">
+		</edge>
+		<edge id="8_9" source="8" target="9" directed="false">
+		</edge>
+		<edge id="1_7" source="1" target="7" directed="false">
+		</edge>
+		<edge id="10_11" source="10" target="11" directed="false">
+		</edge>
+		<edge id="9_16" source="9" target="16" directed="false">
+		</edge>
+		<edge id="11_19" source="11" target="19" directed="false">
+		</edge>
+		<edge id="13_14" source="13" target="14" directed="false">
+		</edge>
+		<edge id="14_15" source="14" target="15" directed="false">
+		</edge>
+		<edge id="12_18" source="12" target="18" directed="false">
+		</edge>
+		<edge id="0_15" source="15" target="0" directed="false">
+		</edge>
+		<edge id="3_16" source="16" target="3" directed="false">
+		</edge>
+		<edge id="1_17" source="17" target="1" directed="false">
+		</edge>
+		<edge id="0_19" source="19" target="0" directed="false">
+		</edge>
+	</graph>
+</graphml>

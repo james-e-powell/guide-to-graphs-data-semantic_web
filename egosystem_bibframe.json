@@ -1,0 +1,310 @@
+﻿{"items": [{ 
+                "type": "Work", 
+                "id": "LA-UR-14-22471",
+                "bf-id": "LA-UR-14-22471",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471",
+                "label": "Powell, James E. Jr. EgoSystem: Where are our Alumni?",
+                "bf-authorizedAccessPoint": ["Powell, James E. Jr. EgoSystem: Where are our Alumni?", "powelljamesejr215228shankarharihar231956rodriguezmarkovandesompelherbert165868magnonidianna288523powelljamesejr215228srorlresearchlibraryaureliusllcegosystemwhereareouralumniengworktext"], 
+"bf-workTitle": "LA-UR-14-22471title5", 
+"relators-author": ["LA-UR-14-22471person6", "LA-UR-14-22471person8", "LA-UR-14-22471person10", "LA-UR-14-22471person12"], 
+"relators-aut": ["LA-UR-14-22471person7", "LA-UR-14-22471person9", "LA-UR-14-22471person11", "LA-UR-14-22471person13"], 
+"relators-rlm": "LA-UR-14-22471person14", 
+"relators-metadata_supplier": "LA-UR-14-22471person15", 
+"bf-contributor": "LA-UR-14-22471organization16", 
+"relators-oth": "LA-UR-14-22471organization17", 
+"bf-language": "http://id.loc.gov/vocabulary/languages/eng", 
+"bf-subject": ["LA-UR-14-22471topic19", "LA-UR-14-22471topic20", "LA-UR-14-22471topic21", "LA-UR-14-22471topic22", "LA-UR-14-22471topic23"], 
+"bf-partOf": "LA-UR-14-22471work24", 
+"bf-derivedFrom": "LA-UR-14-22471.marcxml.xml"
+                }, 
+{ 
+                "type": "Work", 
+                "id": "LA-UR-14-22471work24",
+                "bf-id": "LA-UR-14-22471work24",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471work24",
+                "label": "Journal Code4Lib",
+                "bf-title": "Journal Code4Lib", 
+"bf-authorizedAccessPoint": "Journal Code4Lib"
+                }, 
+{ 
+                "type": "Instance", 
+                "id": "LA-UR-14-22471instance28",
+                "bf-id": "LA-UR-14-22471instance28",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471instance28",
+                "label": "",
+                "bf-instanceTitle": "LA-UR-14-22471title31", 
+"bf-publication": [{ 
+                                    "type": "Provider", 
+                                    "bf-copyrightDate": "2014-04-14"
+                                    }], 
+"bf-modeOfIssuance": "single unit", 
+"bf-extent": "21 p.", 
+"bf-titleStatement": "EgoSystem: Where are our Alumni?", 
+"bf-providerStatement": "2014-04-14", 
+"bf-note": "DOE/LANL", 
+"bf-systemNumber": [{ 
+                                    "type": "Identifier", 
+                                    "bf-identifierValue": "LA-UR-14-22471", 
+"bf-identifierScheme": "systemNumber"
+                                    }], 
+"bf-reportNumber": [{ 
+                                    "type": "Identifier", 
+                                    "bf-identifierScheme": "reportNumber", 
+"bf-identifierValue": "LA-UR-14-22471"
+                                    }], 
+"bf-derivedFrom": "LA-UR-14-22471.marcxml.xml", 
+"bf-instanceOf": "LA-UR-14-22471"
+                }, 
+{ 
+                "type": "Annotation", 
+                "id": "LA-UR-14-22471annotation27",
+                "bf-id": "LA-UR-14-22471annotation27",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471annotation27",
+                "label": "",
+                "bf-derivedFrom": "LA-UR-14-22471.marcxml.xml", 
+"bf-descriptionSource": "http://id.loc.gov/vocabulary/organizations/rassti", 
+"bf-generationProcess": "DLC transform-tool:2014-10-31-T17:00:00", 
+"bf-changeDate": "2014--0-4-T14:T2", 
+"bf-annotates": "LA-UR-14-22471"
+                }, 
+{ 
+                "type": "Title", 
+                "id": "LA-UR-14-22471title5",
+                "bf-id": "LA-UR-14-22471title5",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471title5",
+                "label": "",
+                "bf-titleValue": "EgoSystem: Where are our Alumni?"
+                }, 
+{ 
+                "type": "Person", 
+                "id": "LA-UR-14-22471person6",
+                "bf-id": "LA-UR-14-22471person6",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person6",
+                "label": "Powell, James E. Jr.",
+                "bf-label": "Powell, James E. Jr.", 
+"bf-authorizedAccessPoint": "Powell, James E. Jr.", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "madsrdf-authoritativeLabel": "Powell, James E. Jr."
+                                    }]
+                }, 
+{ 
+                "type": "Person", 
+                "id": "LA-UR-14-22471person7",
+                "bf-id": "LA-UR-14-22471person7",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person7",
+                "label": "Powell, James E. Jr.",
+                "bf-label": "Powell, James E. Jr.", 
+"bf-authorizedAccessPoint": "Powell, James E. Jr.", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "madsrdf-authoritativeLabel": "Powell, James E. Jr."
+                                    }]
+                }, 
+{ 
+                "type": "Person", 
+                "id": "LA-UR-14-22471person8",
+                "bf-id": "LA-UR-14-22471person8",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person8",
+                "label": "Shankar, Harihar",
+                "bf-label": "Shankar, Harihar", 
+"bf-authorizedAccessPoint": "Shankar, Harihar", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "madsrdf-authoritativeLabel": "Shankar, Harihar"
+                                    }]
+                }, 
+{ 
+                "type": "Person", 
+                "id": "LA-UR-14-22471person9",
+                "bf-id": "LA-UR-14-22471person9",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person9",
+                "label": "Shankar, Harihar",
+                "bf-label": "Shankar, Harihar", 
+"bf-authorizedAccessPoint": "Shankar, Harihar", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "madsrdf-authoritativeLabel": "Shankar, Harihar"
+                                    }]
+                }, 
+{ 
+                "type": "Person", 
+                "id": "LA-UR-14-22471person10",
+                "bf-id": "LA-UR-14-22471person10",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person10",
+                "label": "Rodriguez, Marko",
+                "bf-label": "Rodriguez, Marko", 
+"bf-authorizedAccessPoint": "Rodriguez, Marko", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "madsrdf-authoritativeLabel": "Rodriguez, Marko"
+                                    }]
+                }, 
+{ 
+                "type": "Person", 
+                "id": "LA-UR-14-22471person11",
+                "bf-id": "LA-UR-14-22471person11",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person11",
+                "label": "Rodriguez, Marko",
+                "bf-label": "Rodriguez, Marko", 
+"bf-authorizedAccessPoint": "Rodriguez, Marko", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "madsrdf-authoritativeLabel": "Rodriguez, Marko"
+                                    }]
+                }, 
+{ 
+                "type": "Person", 
+                "id": "LA-UR-14-22471person12",
+                "bf-id": "LA-UR-14-22471person12",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person12",
+                "label": "Van De Sompel, Herbert",
+                "bf-label": "Van De Sompel, Herbert", 
+"bf-authorizedAccessPoint": "Van De Sompel, Herbert", 
+"bf-hasAuthority": "http://id.loc.gov/authorities/names/nr00019573"
+                }, 
+{ 
+                "type": "Person", 
+                "id": "LA-UR-14-22471person13",
+                "bf-id": "LA-UR-14-22471person13",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person13",
+                "label": "Van De Sompel, Herbert",
+                "bf-label": "Van De Sompel, Herbert", 
+"bf-authorizedAccessPoint": "Van De Sompel, Herbert", 
+"bf-hasAuthority": "http://id.loc.gov/authorities/names/nr00019573"
+                }, 
+{ 
+                "type": "Person", 
+                "id": "LA-UR-14-22471person14",
+                "bf-id": "LA-UR-14-22471person14",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person14",
+                "label": "Magnoni, Dianna",
+                "bf-label": "Magnoni, Dianna", 
+"bf-authorizedAccessPoint": "Magnoni, Dianna", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "madsrdf-authoritativeLabel": "Magnoni, Dianna"
+                                    }]
+                }, 
+{ 
+                "type": "Person", 
+                "id": "LA-UR-14-22471person15",
+                "bf-id": "LA-UR-14-22471person15",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471person15",
+                "label": "Powell, James E. Jr.",
+                "bf-label": "Powell, James E. Jr.", 
+"bf-authorizedAccessPoint": "Powell, James E. Jr.", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "madsrdf-authoritativeLabel": "Powell, James E. Jr."
+                                    }]
+                }, 
+{ 
+                "type": "Organization", 
+                "id": "LA-UR-14-22471organization16",
+                "bf-id": "LA-UR-14-22471organization16",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471organization16",
+                "label": "SRO-RL: RESEARCH LIBRARY",
+                "bf-label": "SRO-RL: RESEARCH LIBRARY", 
+"bf-authorizedAccessPoint": "SRO-RL: RESEARCH LIBRARY", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "madsrdf-authoritativeLabel": "SRO-RL: RESEARCH LIBRARY"
+                                    }]
+                }, 
+{ 
+                "type": "Organization", 
+                "id": "LA-UR-14-22471organization17",
+                "bf-id": "LA-UR-14-22471organization17",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471organization17",
+                "label": "Aurelius LLC",
+                "bf-label": "Aurelius LLC", 
+"bf-authorizedAccessPoint": "Aurelius LLC", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "madsrdf-authoritativeLabel": "Aurelius LLC"
+                                    }]
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "LA-UR-14-22471topic19",
+                "bf-id": "LA-UR-14-22471topic19",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic19",
+                "label": "Information Science",
+                "bf-authorizedAccessPoint": "Information Science", 
+"bf-label": "Information Science", 
+"bf-authoritySource": "RASSTI : dusa_designator : /record[1]/dusa_designator[1]", 
+"bf-hasAuthority": "http://id.loc.gov/authorities/subjects/sh85066150"
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "LA-UR-14-22471topic20",
+                "bf-id": "LA-UR-14-22471topic20",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic20",
+                "label": "Mathematics &amp; Computing(97)",
+                "bf-authorizedAccessPoint": "Mathematics &amp; Computing(97)", 
+"bf-label": "Mathematics &amp; Computing(97)", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Mathematics &amp; Computing(97)", 
+"madsrdf-isMemberOfMADSScheme": ""
+                                    }], 
+"bf-authoritySource": "RASSTI : osti_subject : /record[1]/osti_subject[1]"
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "LA-UR-14-22471topic21",
+                "bf-id": "LA-UR-14-22471topic21",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic21",
+                "label": "Full Paper",
+                "bf-authorizedAccessPoint": "Full Paper", 
+"bf-label": "Full Paper", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Full Paper", 
+"madsrdf-isMemberOfMADSScheme": ""
+                                    }], 
+"bf-authoritySource": "RASSTI : doc_type : /record[1]/doc_type[1]"
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "LA-UR-14-22471topic22",
+                "bf-id": "LA-UR-14-22471topic22",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic22",
+                "label": "Journal",
+                "bf-authorizedAccessPoint": "Journal", 
+"bf-label": "Journal", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Journal", 
+"madsrdf-isMemberOfMADSScheme": ""
+                                    }], 
+"bf-authoritySource": "RASSTI : journal : /record[1]/purpose[1]/journal[1]"
+                }, 
+{ 
+                "type": "Topic", 
+                "id": "LA-UR-14-22471topic23",
+                "bf-id": "LA-UR-14-22471topic23",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471topic23",
+                "label": "Web",
+                "bf-authorizedAccessPoint": "Web", 
+"bf-label": "Web", 
+"bf-hasAuthority": [{ 
+                                    "type": "Authority", 
+                                    "rdf-type": "", 
+"madsrdf-authoritativeLabel": "Web", 
+"madsrdf-isMemberOfMADSScheme": ""
+                                    }], 
+"bf-authoritySource": "RASSTI : Web : /record[1]/purpose[1]/Web[1]"
+                }, 
+{ 
+                "type": "Title", 
+                "id": "LA-UR-14-22471title31",
+                "bf-id": "LA-UR-14-22471title31",
+                "uri": "http://bibframe.org/resources/qwX1416863487/LA-UR-14-22471title31",
+                "label": "",
+                "bf-titleValue": "EgoSystem: Where are our Alumni?"
+                }]}

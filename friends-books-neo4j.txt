@@ -1,0 +1,39 @@
+CREATE (Scott:Person {name:'Scott',age:36})
+CREATE (Bob:Person {name:'Bob',age:47})
+CREATE (Anne:Person {name:'Anne',age:34})
+CREATE (Susan:Person {name:'Susan',age:45})
+CREATE (Solaris:Book {title:'Solaris', category:'novel'})
+CREATE (Roadside:Book {title:'Roadside Picnic', category:'novel'})
+CREATE (Annihilation:Book {title:'Annihilation', category:'novel'})
+CREATE (Brief:Book {title:'Brief History of Time', category:'nonfiction'})
+CREATE 
+  (Scott)-[:READ]->(Annihilation),
+  (Scott)-[:READ]->(Brief),
+  (Bob)-[:READ]->(Roadside),
+  (Bob)-[:READ]->(Annihilation),
+  (Anne)-[:READ]->(Solaris),
+  (Susan)-[:READ]->(Solaris),
+  (Scott)-[:FRIEND]->(Bob),
+  (Scott)-[:FRIEND]->(Anne),
+  (Bob)-[:FRIEND]->(Anne)
+
+MATCH (Scott:Person {name:'Scott'})-[:FRIEND]->(b) return b
+MATCH (Scott:Person {name:'Scott'})-[:FRIEND]-(b)-[:READ]->(c) return b,c
+MATCH (Scott:Person {name:'Scott'})-[:READ*1..2]-(book),(Scott:Person {name:'Scott'})-[:READ]-(readbook) WHERE NOT readbook=book RETURN book
+MATCH (Scott:Person {name:'Scott'})-[:READ*1..2]-(book),(Scott:Person {name:'Scott'})-[:READ]-(readbook) WHERE NOT (Scott:Person)-[:READ]-(book) return book 
+MATCH (Scott:Person {name:'Scott'})-[:READ*1..3]-(book) WHERE NOT (Scott:Person)-[:READ]-(book) return book
+MATCH (people {name:'Scott'})-[:READ*1..3]-(book) WITH people, NOT ({name:'Scott'})-[:READ]-(book) as unread return people,books
+MATCH (people {name:'Scott'})-[:READ*1..3]-(book) WITH people, NOT ({name:'Scott'})-[:READ]-(book) as unread return people,books
+
+MATCH (Scott:Person {name:'Scott'})-[:READ*1..2]-(book),(Scott:Person {name:'Scott'})-[:READ]-(readbook) EXTRACT (book| NOT readbook=book) as extracted
+
+MATCH (Scott:Person {name:'Scott'})-[:READ*1..5]-(book) WITH book, (Scott:Person)-[:READ]-(book) as unread return unread
+MATCH (Scott:Person {name:'Scott'})-[:READ*1..5]-(book) WITH book, NOT (Scott:Person)-[:READ]-(book) as unread return unread,book
+MATCH ({name:'Scott'})-[:READ*1..5]-(book) WITH book, NOT ({name:'Scott'})-[:READ]-(book) as unread return unread,book
+MATCH ({name:'Scott'})-[:READ*1..5]-(book) WITH book, ({name:'Scott'})-[:READ]-(book) as unread return unread,book
+MATCH ({name:'Scott'})-[:FRIEND]-(person)-[:READ]-(book) WITH book, ({name:'Scott'})-[:READ]-(book) as unread return book
+MATCH ({name:'Scott'})-[:FRIEND]-(person)-[:READ]-(read),({name:'Scott'})-[:READ]-(book) WHERE NOT (read)=(book) return book
+
+MATCH (n)
+OPTIONAL MATCH (n)-[r]-()
+DELETE n,r

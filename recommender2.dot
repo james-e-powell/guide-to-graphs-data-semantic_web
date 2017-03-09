@@ -1,0 +1,92 @@
+/* Created by igraph 0.7.0 */
+digraph {
+  0 [
+    name=Scott
+    age=36
+    label="Scott"
+    id=1
+  ];
+  1 [
+    name=Bob
+    age=47
+    label="Bob"
+    id=2
+    style=bold
+  ];
+  2 [
+    name=Anne
+    age=34
+    label="Anne"
+    id=3
+    style=bold
+  ];
+  3 [
+    name=Susan
+    age=45
+    label="Susan"
+    id=4
+  ];
+  4 [
+    category=novel
+    title=Solaris
+    label="Solaris"
+    id=5
+  ];
+  5 [
+    category=novel
+    title="Roadside Picnic"
+    label="Roadside Picnic"
+    id=6
+  ];
+  6 [
+    category=novel
+    title=Annihilation
+    label="Annihilation"
+    id=7
+  ];
+  7 [
+    category=nonfiction
+    title="Brief History of Time"
+    label="Brief History of Time"
+    id=8
+  ];
+
+  0 -> 2 [
+    label="friend"
+    id=16
+    style=dotted
+  ];
+  1 -> 2 [
+    label="friend"
+    id=17
+  ];
+  0 -> 6 [
+    label="read"
+    id=9
+  ];
+  0 -> 7 [
+    label="read"
+    id=10
+  ];
+  1 -> 7 [
+    label="read"
+    id=11
+  ];
+  1 -> 5 [
+    label="read"
+    id=12
+  ];
+  2 -> 4 [
+    label="read"
+    id=13
+  ];
+  3 -> 4 [
+    label="read"
+    id=14
+  ];
+  0 -> 1 [
+    label="friend"
+    id=15
+    style=dotted
+  ];
+}
